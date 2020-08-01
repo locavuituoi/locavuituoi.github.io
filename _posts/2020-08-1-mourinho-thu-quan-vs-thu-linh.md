@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Mourinho: Thủ quân vs Thủ lĩnh'
+title: 'Mourinho: Sự khác nhau giữa Thủ quân vs Thủ lĩnh'
 author: sal
 categories:
   - Tổng hợp
