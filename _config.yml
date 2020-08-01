@@ -14,7 +14,7 @@ email: quangtrung.psd@gmail.com
 
 # Authors
 authors:
-  sal:
+  loca:
     name: Loca
     display_name: Loca
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
@@ -22,7 +22,7 @@ authors:
     web: https://fb.com/wearetrung
     twitter: https://fb.com/wearetrung
     description: "Lưu trữ những kiến thức, kinh nghiệm trồng trọt và chăn nuôi trên Facebook và Wordpress."
-  john:
+  vuituoi:
     name: Vuituoi
     display_name: Vuituoi    
     avatar: 'assets/images/avatar.png'
