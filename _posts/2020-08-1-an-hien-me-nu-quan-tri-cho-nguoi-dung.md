@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cách ẩn hiện menu trong trang Quản trị Wordpress cho từng người dùng
+title: Cách ẩn menu trong trang Quản trị Wordpress cho từng người dùng
 author: sal
 categories:
   - Wordpress
@@ -17,8 +17,16 @@ Always a center of entertainment for the aristocracy, in the 1870s it also becam
 
 > It was decorated in an 18th-century rococo style, redesigned by Sybille de Margérie with furnishings by Sonia Rykiel.
 
-Following a renovation of the hotel in 1981–85, the restaurant occupied a former private ballroom with windows looking out on the Place de la Concorde, a few hundred meters from the Palais Garnier. 
+#### Hãy copy đoạn code này và dán vào function.php
 
-Les Ambassadeurs had two Michelin stars. In the last decade of its operation, chef was Dominique Bouchet  followed by Jean-François Piège and finally when the hotel closed in 2013 for an extended renovation, Christopher Hache.
-
-In 2017 Hache opened a smaller restaurant, L'Écrin, within the renovated hotel; the former space of Les Ambassadeurs became a bar.
+```php
+/*Ẩn menu trong trang quản trị cho từng người dùng*/
+add_action( 'admin_init', 'my_remove_menu_pages' );
+function my_remove_menu_pages() {
+  global $user_ID;
+  if(is_admin() && $user_ID == '5;6'){ //Thay ID người dùng ở đây
+        remove_menu_page('edit.php?post_type=blocks');
+        remove_menu_page('wpcf7');
+    }
+}
+```
