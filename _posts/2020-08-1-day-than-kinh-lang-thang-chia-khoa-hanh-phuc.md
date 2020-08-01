@@ -37,7 +37,7 @@ Các nghiên cứu của bà cho thấy, những hoạt động kể trên và n
 Silberstein nói rằng hầu hết những hoạt động giúp mọi người thấy dễ chịu - như thiền định, hít thở sâu - đều có liên quan tới mức độ hoạt động cao của dây thần kinh lang thang và hệ thống thần kinh đối giao cảm. “Các nghiên cứu trước đây của chúng tôi cho thấy những người mắc chứng đau nửa đầu đều có điểm chung là sự suy giảm chức năng của dây thần kinh lang thang,” ông cho biết. “Chúng tôi cố gắng cải thiện tình trạng này bằng yoga hoặc thiền định, và kết quả là dây thần kinh lang thang đã được hoạt hóa trở lại.” Mặt khác, sự căng thẳng và lo lắng cũng làm suy giảm hoạt động của dây thần kinh lang thang, qua đó giúp giải thích lí do vì sao các trạng thái tinh thần này có thể gây ra các bệnh lí đối với cơ thể.
 
 Việc tìm hiểu về mạng lưới thần kinh này vẫn còn là một thách thức lớn đối với giới khoa học. Nhưng những phát hiện mới đây của các chuyên gia đang mở ra một chân trời mới trong việc tìm ra các liệu pháp giảm đau và chống viêm hiệu quả hơn, qua đó góp phần chữa lành khổ não và bệnh tật của con người.
-_______________
+
 Bài viết gốc: https://elemental.medium.com/science-confirms-that-the-vagus-nerve-is-key-to-well-being-c23fab90e211
-Minh họa: Kieran Blakey
-Dịch: Đỗ Nhược Vy #QRVN #MDVN #MonsterBox
+
+Dịch: Đỗ Nhược Vy
