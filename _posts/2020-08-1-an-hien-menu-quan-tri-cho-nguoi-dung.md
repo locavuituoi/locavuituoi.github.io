@@ -47,7 +47,7 @@ Trường hợp còn lại, nếu URL không chứa **admin.php**, các bạn co
 1. domain/wp-admin/edit.php?posttype=sidebar -> **edit.php?posttype=sidebar**
 1. domain/wp-admin/edit.php?posttype=events -> **edit.php?posttype=events**_
 
-Sau khi tuỳ chỉnh đoạn code sẽ trông như thế này
+Sau khi tuỳ chỉnh đoạn code sẽ trông như thế này:
 
 ```php
 //Ẩn menu trong trang quản trị cho từng người dùng
