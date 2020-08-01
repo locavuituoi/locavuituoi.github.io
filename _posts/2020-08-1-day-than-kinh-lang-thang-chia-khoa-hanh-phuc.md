@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'Khoa học xác nhận: Dây thần kinh lang thang là chìa khóa của hạnh phúc!'
-author: john
+author: sal
 categories:
-  - Travel
+  - Tổng hợp
 image: assets/images/9.jpg
 published: true
 ---
