@@ -16,7 +16,7 @@ Trong một nghiên cứu công bố trên tập san Social Psychology and Perso
 
 Có ít điểm khác nhau hơn dự kiến. Khi nói đến hoạt động thường ngày, cả hai bên đều dành khoảng thời gian gần như là giống nhau để, ví dụ như, nấu nướng hay mua sắm. Những triệu phú kia dành ít thời gian chăm sóc con nhỏ hơn nhưng mất nhiều thời gian để làm việc nhà hơn.
 
-Một điểm khác biệt chủ chốt đó là thể loại giải trí mà các nhóm này tham gia vào. Trong khi những triệu phú cũng dành khoảng thời gian tương tự như tất cả những người khác để vui chơi, họ có xu hướng cao hơn hẳn những người bình thường khác trong việc chọn các loại hoạt động đòi hỏi sự chủ động (cầu nguyện, giao tiếp xã hội, tập thể dục, duy trì gìn giữ các mối quan hệ thân cận, các hoạt động phục vụ thú vui cá nhân, và làm tình nguyện), đối lập với nhóm những việc làm thụ động (xem TV, ngủ nướng và nghỉ ngơi, thư giãn, không làm gì cả).
+Một điểm khác biệt chủ chốt đó là thể loại giải trí mà các nhóm này tham gia vào. **Trong khi những triệu phú cũng dành khoảng thời gian tương tự như tất cả những người khác để vui chơi, họ có xu hướng cao hơn hẳn những người bình thường khác trong việc chọn các loại hoạt động đòi hỏi sự chủ động (cầu nguyện, giao tiếp xã hội, tập thể dục, duy trì gìn giữ các mối quan hệ thân cận, các hoạt động phục vụ thú vui cá nhân, và làm tình nguyện), đối lập với nhóm những việc làm thụ động (xem TV, ngủ nướng và nghỉ ngơi, thư giãn, không làm gì cả).**
 
 Các nhóm này cũng có sự khác nhau trong hành động. Trong khi những triệu phú cũng làm việc với khối lượng tương đương với số động, họ có nhiều sự tự quản (autonomy) trong công việc hơn.
 
