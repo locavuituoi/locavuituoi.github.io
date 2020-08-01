@@ -93,4 +93,4 @@ Sau khi Trịnh Nhất chết, góa phụ của Trịnh Nhất thâu tóm mọi 
 
 Sau 10p mò mẫm thì tui đã chỉnh được chữ lại cho dễ nhìn rồi nha mọi người ơiiii :))) Chú thích hình thì đây là bản đồ nước ta thời Tây Sơn thịnh trị nha.
 
-Bài viết này mình không nhớ của ai, ai biết vui lòng cho mình biết ạ.
+Loca: Bài viết này mình không nhớ của ai, ai biết vui lòng cho mình biết ạ.
