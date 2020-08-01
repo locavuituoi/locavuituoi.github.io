@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 author: sal
 categories:
@@ -26,5 +26,4 @@ Rõ ràng rồi, tiền bạc dĩ nhiên là giúp ta có thể đạt được 
 
 Những người “có hết tất cả” kia không tìm kiếm cuộc sống hoàn toàn không phải lao động hay không chạm tay vào việc nhà - thay vào đó, họ tìm cách để sử dụng thời gian của mình với mục đích cụ thể và theo như mong muốn, cả trong làm việc lẫn vui chơi. Họ chỉ đang sống như vậy trong những căn nhà to đẹp hơn thôi.
 
-Tác giả: Dawn Teh
-Bài viết gốc #Medium: https://forge.medium.com/what-makes-rich-people-happier-than-the-rest-of-
+Tác giả: Dawn Teh. Bài viết gốc #Medium: https://forge.medium.com/what-makes-rich-people-happier-than-the-rest-of-
