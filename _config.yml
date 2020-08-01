@@ -21,7 +21,7 @@ authors:
     email: quangtrung.psd@gmail.com
     web: https://fb.com/wearetrung
     twitter: https://fb.com/wearetrung
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+    description: "Lưu trữ những kiến thức, kinh nghiệm trồng trọt và chăn nuôi trên Facebook và Wordpress."
   john:
     name: Vuituoi
     display_name: Vuituoi    
@@ -30,7 +30,7 @@ authors:
     email: quangtrung.psd@gmail.com
     web: https://fb.com/wearetrung
     twitter: https://fb.com/wearetrung
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
+    description: "Lưu trữ những kiến thức, kinh nghiệm trồng trọt và chăn nuôi trên Facebook và Wordpress."
 
 # Plugins
 plugins:
