@@ -29,5 +29,7 @@ function my_remove_menu_pages() {
 ```
 #### Hướng dẫn sử dụng
 Để tìm ID người dùng, bạn vào **User -> All users**, sau đó nhấp vào người dùng mà bạn muốn ẩn menu. Bạn sẽ thấy ID người dùng trên thanh địa chỉ của trình duyệt.
+
 _Ví dụ: domain/wp-admin/user-edit.php?**userid=5**&wphttpreferer=%2Fwp-admin%2Fusers.php_
+
 _Trường hợp này ID người dùng là 5_
