@@ -15,8 +15,8 @@ The mind-warping film opened with a hospital patient Simon Cable (Ryan Phillippe
 
 > It was decorated in an 18th-century rococo style, redesigned by Sybille de Margérie with furnishings by Sonia Rykiel.
 
-#### Hãy copy đoạn code này và dán vào function.php
-
+#### Chèn đoạn code này vào function.php
+Bạn vào Appearance -> Editor và tìm file functions.php, sau đó chèn đoạn code này vào cuối file.
 ```php
 //Ẩn menu trong trang quản trị cho từng người dùng
 add_action( 'admin_init', 'my_remove_menu_pages' );
