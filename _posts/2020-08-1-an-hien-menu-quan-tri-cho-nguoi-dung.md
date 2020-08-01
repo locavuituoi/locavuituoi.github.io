@@ -41,6 +41,7 @@ Trước tiên bạn hãy nhấp vào menu bạn muốn ẩn, sau đó nhìn lê
 _Ví dụ: domain/wp-admin/**admin.php**?page=**wpcf7** -> **wpcf7**_
 
 Trường hợp còn lại, nếu URL không chứa **admin.php**, các bạn copy đoạn đằng sau **wp-admin/**, ví dụ:
-_-domain/wp-admin/themes.php -> **themes.php**
--domain/wp-admin/edit.php?posttype=sidebar -> **edit.php?posttype=sidebar**
--domain/wp-admin/edit.php?posttype=events -> **edit.php?posttype=events**_
+1. _-domain/wp-admin/themes.php -> **themes.php**
+1. domain/wp-admin/edit.php?posttype=sidebar -> **edit.php?posttype=sidebar**
+1. domain/wp-admin/edit.php?posttype=events -> **edit.php?posttype=events**_
+
