@@ -21,7 +21,7 @@ published: true
             {% endif %}
         </div>            
         <div>
-        Viết bởi <a target="_blank" class="text-dark" href="{{ author.web }}">{{ author.display_name }}</a> lúc 
+        Viết bởii <a target="_blank" class="text-dark" href="{{ author.web }}">{{ author.display_name }}</a> lúc 
         <span class="post-date"><time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date_to_string }}</time></span>           
         {% if page.last_modified_at %}
         (Cập nhật: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ page.last_modified_at | date: "%b %-d, %Y" }}</time>)
