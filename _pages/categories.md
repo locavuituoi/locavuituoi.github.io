@@ -1,5 +1,5 @@
 ---
 layout: categories
-title: Categories
+title: Chuyên mục
 permalink: /categories
 ---
