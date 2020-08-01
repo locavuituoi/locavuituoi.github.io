@@ -27,4 +27,4 @@ Bạn chịu trách nhiệm với cuộc đời bạn. Không ai dí súng vào 
 
 Ví dụ như chúng ta có nên chiến đấu lại nó hay không. Bạn là người đã chọn trả các hóa đơn mà bạn có. Bạn đã đăng kí, bạn đã kí giấy thuê nhà, bạn đã yêu cầu các loại dịch vụ... Bạn không phải là nạn nhân. Mà nếu bạn có là nạn nhân, bạn vẫn là người quyết định sẽ phản ứng như thế nào. Bạn có ép giá không? Bạn có bực tức gì không? Bạn có trả thù không? Bạn có tha thứ không? Bạn là người điều khiển cuộc sống của bạn.
 
-Bài viết của Oregonguy1954
+Bài viết của Oregonguy1954.
