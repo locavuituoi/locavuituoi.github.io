@@ -23,8 +23,8 @@ add_action( 'admin_init', 'my_remove_menu_pages' );
 function my_remove_menu_pages() {
   global $user_ID;
   if(is_admin() && $user_ID == '5;6'){ //Thay ID người dùng ở đây
-        remove_menu_page('edit.php?post_type=blocks');
-        remove_menu_page('wpcf7');
+        remove_menu_page('edit.php?post_type=blocks'); // Ẩn UX Block của Flatsome
+        remove_menu_page('wpcf7'); // Ẩn Contact Form 7
     }
 }
 ```
