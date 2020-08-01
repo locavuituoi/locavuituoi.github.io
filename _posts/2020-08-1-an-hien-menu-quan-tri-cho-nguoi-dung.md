@@ -6,7 +6,7 @@ categories:
   - Wordpress
 tags:
   - Thủ thuật
-image: assets/images/2.jpg
+image: assets/images/an-menu-quan-tri-vien-wordpress.jpg
 rating: 4.5
 published: true
 ---
