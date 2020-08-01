@@ -37,5 +37,10 @@ _Ví dụ: domain/wp-admin/user-edit.php?**userid=5**&wphttpreferer=%2Fwp-admin%
 
 #####  2. Ẩn menu bạn muốn
 
-Trước tiên bạn hãy nhấp vào menu bạn muốn ẩn, sau đó nhìn lên thanh địa chỉ của trình duyệt.
+Trước tiên bạn hãy nhấp vào menu bạn muốn ẩn, sau đó nhìn lên thanh địa chỉ của trình duyệt. Nếu URL chứa **admin.php** bạn chỉ cần copy đoạn đằng sau dấu bằng.
+_Ví dụ: domain/wp-admin/**admin.php**?page=**wpcf7** -> **wpcf7**_
 
+Trường hợp còn lại, nếu URL không chứa **admin.php**, các bạn copy đoạn đằng sau **wp-admin/**, ví dụ:
+_-domain/wp-admin/themes.php -> **themes.php**
+-domain/wp-admin/edit.php?posttype=sidebar -> **edit.php?posttype=sidebar**
+-domain/wp-admin/edit.php?posttype=events -> **edit.php?posttype=events**_
