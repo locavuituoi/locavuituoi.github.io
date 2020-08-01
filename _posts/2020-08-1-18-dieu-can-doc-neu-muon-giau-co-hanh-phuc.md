@@ -168,4 +168,6 @@ Khi bạn muốn kiếm ít tiền thì bạn có thể nắm bắt cơ hội ng
 
 #### 16. Rất nhiều người có tài năng, có mục tiêu hoài bão nhưng không thể thực hiện được nếu thiếu điều này?
 
-Đó chính là khả năng xây dựng & phát triển đội nhóm. Số 1 là quá ít để làm nên điều vĩ đại, để thành công bạn cần có đội nhóm, để thành công lớn bạn cần tạo ra RẤT RẤT NHIỀU CHUYÊN GIA trong tổ chức của bạn. Điều này không phải bí mật nhưng bạn hãy bắt đầu học cách xây dựng đội nhóm càng sớm càng tốt, đội nhóm của bạn càng lớn, năng lực thực thì của bạn càng tốt thì khoảng cách từ hiện tại bạn đang đứng đến ước mơ của bạn càng gần. Nếu như bạn ra khơi vượt đại dương một mình hoặc với những người không có kinh nghiệm thì bạn sẽ cầm chắc cái chết. Điều này nghe có vẻ đơn giản nhưng lại là điều mà rất nhiều 
+Đó chính là khả năng xây dựng & phát triển đội nhóm. Số 1 là quá ít để làm nên điều vĩ đại, để thành công bạn cần có đội nhóm, để thành công lớn bạn cần tạo ra RẤT RẤT NHIỀU CHUYÊN GIA trong tổ chức của bạn. Điều này không phải bí mật nhưng bạn hãy bắt đầu học cách xây dựng đội nhóm càng sớm càng tốt, đội nhóm của bạn càng lớn, năng lực thực thì của bạn càng tốt thì khoảng cách từ hiện tại bạn đang đứng đến ước mơ của bạn càng gần. Nếu như bạn ra khơi vượt đại dương một mình hoặc với những người không có kinh nghiệm thì bạn sẽ cầm chắc cái chết. Điều này nghe có vẻ đơn giản nhưng lại là điều mà rất nhiều.
+
+Bài viết này của một anh nào đó mình không nhớ tên.
