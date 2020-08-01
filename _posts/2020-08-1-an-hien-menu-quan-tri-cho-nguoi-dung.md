@@ -17,7 +17,7 @@ The mind-warping film opened with a hospital patient Simon Cable (Ryan Phillippe
 
 #### Hãy copy đoạn code này và dán vào function.php
 
-```html
+```php
 //Ẩn menu trong trang quản trị cho từng người dùng
 add_action( 'admin_init', 'my_remove_menu_pages' );
 function my_remove_menu_pages() {
