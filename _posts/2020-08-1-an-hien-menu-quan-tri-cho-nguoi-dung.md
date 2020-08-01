@@ -35,4 +35,7 @@ Sau khi chèn đoạn code trên vào function.php, bạn tiến hành tuỳ ch�
 
 _Ví dụ: domain/wp-admin/user-edit.php?**userid=5**&wphttpreferer=%2Fwp-admin%2Fusers.php. Trường hợp này ID người dùng là 5_
 
-#####  2. Tuỳ chỉnh
+#####  2. Ẩn menu bạn muốn
+
+Trước tiên bạn hãy nhấp vào menu bạn muốn ẩn, sau đó nhìn lên thanh địa chỉ của trình duyệt.
+
