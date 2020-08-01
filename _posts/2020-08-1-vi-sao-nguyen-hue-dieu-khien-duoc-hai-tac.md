@@ -4,7 +4,7 @@ title: Vì sao Nguyễn Huệ lại có thể điều khiển được hải t�
 author: sal
 categories:
   - Tổng hợp
-image: assets/images/15.jpg
+image: assets/images/nguyen-hue-dieu-khien-hai-tac.jpg
 published: true
 ---
 Nãy thấy có bạn đăng bài về Trịnh Nhất Tẩu nên tôi chợt nhớ về mấy phi vụ làm ăn đỉnh cao của Quang Trung đại đế với cướp biển và thì ừ.... đây là bài viết về khả năng tận dụng hải tặc của Nguyễn Huệ trong chiến tranh.
