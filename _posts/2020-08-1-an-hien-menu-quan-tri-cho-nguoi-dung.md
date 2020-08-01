@@ -10,7 +10,9 @@ image: assets/images/2.jpg
 rating: 4.5
 published: true
 ---
-Giả sử mình đang có một vài bạn làm cộng tác viên viết bài tuy nhiên khi các bạn này đăng nhập vào website sẽ nhìn thấy một số mục như UX Block, Contact Form... Để đảm bảo sự riêng tư, mình sẽ phải ẩn các mục này đi để các bạn cộng tác viên không nhìn thấy. Vậy làm thế nào?
+Giả sử mình đang có một vài bạn làm cộng tác viên viết bài tuy nhiên khi các bạn này đăng nhập vào website sẽ nhìn thấy một số mục như UX Block, Contact Form... Để đảm bảo sự riêng tư, mình sẽ phải ẩn các mục này đi để các bạn cộng tác viên không nhìn thấy.
+
+Hoặc bạn thiết kế website cho khách hàng và không muốn khách hàng truy cập một số mục. Bạn cần ẩn những mục này đi. Vậy làm thế nào?
 
 #### Hãy chèn đoạn code này vào function.php
 Bạn vào **Appearance -> Editor** và tìm file **functions.php**, sau đó chèn đoạn code này vào cuối file.
@@ -26,3 +28,6 @@ function my_remove_menu_pages() {
 }
 ```
 #### Hướng dẫn sử dụng
+Để tìm ID người dùng, bạn vào **User -> All users**, sau đó nhấp vào người dùng mà bạn muốn ẩn menu. Bạn sẽ thấy ID người dùng trên thanh địa chỉ của trình duyệt.
+_Ví dụ: domain/wp-admin/user-edit.php?**userid=5**&wphttpreferer=%2Fwp-admin%2Fusers.php_
+_Trường hợp này ID người dùng là 5_
