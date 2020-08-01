@@ -25,3 +25,6 @@ Vậy thì kết quả từ nghiên cứu này có ý nghĩa gì đối với ch
 Rõ ràng rồi, tiền bạc dĩ nhiên là giúp ta có thể đạt được cả hai thứ trên, thế nhưng chúng ta, với bất kỳ mức thu nhập đang có nào, cũng có thể vận dụng chúng vào cuộc sống của mình. Ta có thể khởi đầu một dự án thực hành. Hay là dành chút thời gian đọc sách báo cho trẻ em thiếu may mắn hơn. Hoặc như là hỏi ý kiến cấp trên để ta có thể sử dụng giải pháp sáng tạo hơn cho một vấn đề nào đó ở nơi làm. Những thứ “xa xỉ” này không giới hạn riêng cho người giàu, vậy thì lý do gì để không tận hưởng chúng ngay từ bây giờ chứ?
 
 Những người “có hết tất cả” kia không tìm kiếm cuộc sống hoàn toàn không phải lao động hay không chạm tay vào việc nhà - thay vào đó, họ tìm cách để sử dụng thời gian của mình với mục đích cụ thể và theo như mong muốn, cả trong làm việc lẫn vui chơi. Họ chỉ đang sống như vậy trong những căn nhà to đẹp hơn thôi.
+
+Tác giả: Dawn Teh
+Bài viết gốc #Medium: https://forge.medium.com/what-makes-rich-people-happier-than-the-rest-of-
