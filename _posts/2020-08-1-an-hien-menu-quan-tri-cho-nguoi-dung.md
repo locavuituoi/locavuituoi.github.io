@@ -62,4 +62,4 @@ function my_remove_menu_pages() {
     }
 }
 ```
-Ehehe Loca chúc các bạn thành công.
+Loca chúc các bạn thành công :D
