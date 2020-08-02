@@ -47,7 +47,7 @@ Không chỉ những yếu tố về thị giác trong button mới quan trọng
 
 ![](https://miro.medium.com/max/420/1*AqsH5XIqUgL9v0_SWbwgKw.png){: style="display: block; margin: 0 auto"}
 
-Là một người dùng, bạn hẳn sẽ cảm thấy phân vân rằng cái nút đó có bấm được không? Hay chỉ đơn giản là một hình chữ nhật nào đấy..
+Là một người dùng, bạn hẳn sẽ cảm thấy phân vân rằng cái nút đó có bấm được không? Hay chỉ đơn giản là một hình chữ nhật nào đấy..{: style="display: block; margin: 0 auto"}
 
 #### 2. Đặt button ở những vị trí quen thuộc
 
@@ -67,7 +67,7 @@ Một ví dụ dễ hiểu, hãy tự đặt mình vào vị trí người dùng
 
 ![](https://miro.medium.com/max/462/1*r5O0A-xt1rn_WE3evCC8ww.png){: style="display: block; margin: 0 auto"}
 
-Cái label “OK” không diễn đạt đủ hết chức năng chính của button.
+Cái label “OK” không diễn đạt đủ hết chức năng chính của button.{: style="display: block; margin: 0 auto"}
 
 “OK” và “Cancel” còn khá lá mông lung trong tình huống này, phần lớn người dùng sẽ thường tự hỏi là “Nếu mình bấm nút Cancel thì sao nhỉ?”
 
@@ -77,8 +77,8 @@ Thay vì đặt label là “OK” thì nên đặt là “Remove” sẽ rõ ng
 
 ![](https://miro.medium.com/max/442/1*gfo-E00mGVPVYc_H80lkmg.png){: style="display: block; margin: 0 auto"}
 
-Label “Remove” giúp làm rõ nghĩa cho chức năng của button hơn hẳn.
+Label “Remove” giúp làm rõ nghĩa cho chức năng của button hơn hẳn.{: style="display: block; margin: 0 auto"}
 
 [Button “Disable Card” có khả năng gây hại nên được bôi đỏ](https://miro.medium.com/max/700/1*J6W62w8Pv2lzuUF7Dk9Y_A.png){: style="display: block; margin: 0 auto"}
 
-Button “Disable Card” có khả năng gây hại nên được bôi đỏ. Credit
+Button “Disable Card” có khả năng gây hại nên được bôi đỏ.{: style="display: block; margin: 0 auto"}
