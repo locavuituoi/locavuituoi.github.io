@@ -75,7 +75,7 @@ Cái label “OK” không diễn đạt đủ hết chức năng chính của b
 
 Thay vì đặt label là “OK” thì nên đặt là “Remove” sẽ rõ nghĩa hơn nhiều. Ngoài ra, nếu việc Delete là một thao tác có khả năng gây hại thì có thể tô đỏ button lên để biểu thị tốt hơn.
 
-<span style="display: block; margin: 0 auto;">![](https://miro.medium.com/max/442/1*gfo-E00mGVPVYc_H80lkmg.png)</span>
+![](https://miro.medium.com/max/442/1*gfo-E00mGVPVYc_H80lkmg.png){: style="display: block; margin: 0 auto;}
 
 Label “Remove” giúp làm rõ nghĩa cho chức năng của button hơn hẳn.
 
