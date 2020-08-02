@@ -1,5 +1,12 @@
 ---
-published: false
+published: true
+layout: post
+title: 7 Nguyên tắc cơ bản cần nắm vững khi thiết kế Button
+author: john
+categories:
+  - Thiết kế
+tags: UX/UI
+image: assets/images/nguyen-hue-dieu-khien-hai-tac.jpg
 ---
 Button là thành phần thiết yếu trong các kiểu thiết kế tương tác ngày nay và chúng cũng chính là cầu nối chính giữa người dùng và toàn bộ hệ thống sản phẩm. Nên để hiểu rõ hơn tầm quan trọng của button, tôi sẽ liệt kê bảy nguyên tắc cơ bản để tạo nên được những button đạt hiệu quả.
 
