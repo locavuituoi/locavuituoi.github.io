@@ -37,9 +37,13 @@ Dưới đây là một số thiết kế button quen thuộc với hầu hết 
 - Filled button with shadows
 - Ghost button
 
+![vi-du-button.png]({{site.baseurl}}/assets/images/vi-du-button.png)
+
+
 Trong tất cả những ví dụ trên thì dạng “Filled button with shadows” là quen thuộc với hầu hết người dùng nhất do lớp shadow bên dưới tạo cảm giác ba chiều và người dùng thì lại thường có phản ứng khá tốt với các dạng hình ảnh ba chiều này.
 
-![]({{site.baseurl}}/https://miro.medium.com/max/224/1*UZTsPglcLschWx2IUMt7dg.png)
+![](https://miro.medium.com/max/224/1*UZTsPglcLschWx2IUMt7dg.png)
+
 
 **Đừng quên những khoảng trắng**
 
