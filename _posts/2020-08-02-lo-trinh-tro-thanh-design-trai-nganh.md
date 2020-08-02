@@ -1,6 +1,6 @@
 ---
 published: true
-title: Lộ trình trở thành designer cho người trái ngành
+title: Lộ trình trở thành Designer cho người trái ngành
 layout: post
 author: john
 categories:
