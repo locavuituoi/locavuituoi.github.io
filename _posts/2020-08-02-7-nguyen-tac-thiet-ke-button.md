@@ -103,7 +103,7 @@ Một số app có button khá nhỏ, điều này hay dẫn đến trường h�
 
 Bên trái: Button có kích thước hợp lý – Bên phải: Button quá bé. Ảnh từ Apple.
 
-Theo nghiên cứu thu được từ MIT Touch Lab thì diện tích trung bình của đốt đầu ngón tay rơi vào tầm từ 10-14mm, trong khi đó của đầu ngón tay sẽ là 8-10mm. Do đó, kích thước lý tưởng cho button nên tối thiểu là 10mm x 10mm.
+Theo nghiên cứu thu được từ MIT Touch Lab thì diện tích trung bình của đốt đầu ngón tay rơi vào tầm từ 10-14mm, trong khi đó của đầu ngón tay sẽ là 8-10mm. Do đó, kích thước lý tưởng cho button nên **tối thiểu là 10mm x 10mm**.
 
 ![](https://miro.medium.com/proxy/0*E5IKQ8_HH4rweDAu.jpg){: style="display: block; margin: 0 auto"}
 
