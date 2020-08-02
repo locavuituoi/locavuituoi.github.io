@@ -59,23 +59,23 @@ Button được đặt ở những vị trí được quy ước lúc nào cũng
 
 > Đừng lấy button ra để chơi trốn tìm với người dùng
 
-#### 4. Gắn nhãn (Label) button đúng với chức năng của nó
+#### 3. Gắn nhãn (Label) button đúng với chức năng của nó
 
 Khi nhiều button bị trùng nhau hoặc label sai sẽ rất dễ dàng gây hoang mang cho người dùng và để tránh vấn đề này thì bạn nên label button sao cho thật dễ hiểu và còn phải khớp với chức năng của chúng nữa.
 
 Một ví dụ dễ hiểu, hãy tự đặt mình vào vị trí người dùng và bạn vô tình bấm vô cái nút Delete, dưới đây là cái bảng báo lỗi hiện ra.
 
-
+<span style="align:center;">![](https://miro.medium.com/max/462/1*r5O0A-xt1rn_WE3evCC8ww.png)</span>
 
 Cái label “OK” không diễn đạt đủ hết chức năng chính của button.
 
 “OK” và “Cancel” còn khá lá mông lung trong tình huống này, phần lớn người dùng sẽ thường tự hỏi là “Nếu mình bấm nút Cancel thì sao nhỉ?”
 
-Đừng bao giờ thiết kế hộp thoại (dialog box) nào mà chỉ chứng hai button OK và Cancel không thôi.
+> Đừng bao giờ thiết kế hộp thoại (dialog box) nào mà chỉ chứng hai button OK và Cancel không thôi.
 
 Thay vì đặt label là “OK” thì nên đặt là “Remove” sẽ rõ nghĩa hơn nhiều. Ngoài ra, nếu việc Delete là một thao tác có khả năng gây hại thì có thể tô đỏ button lên để biểu thị tốt hơn.
 
-
+<span style="align:center;">![](https://miro.medium.com/max/442/1*gfo-E00mGVPVYc_H80lkmg.png)</span>
 
 Label “Remove” giúp làm rõ nghĩa cho chức năng của button hơn hẳn.
 
