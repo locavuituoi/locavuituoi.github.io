@@ -16,7 +16,7 @@ Không đuổi theo khách hàng 1 cách liên tục, mọi lúc mọi nơi, ví
 
 Ví dụ: em sẽ chỉ chạy remarketing trong 3 ngày đầu tiên , ngày thứ 8 đến ngày thứ 11, và ngày thứ 15 đến ngày 17. Các bước như sau:
 
-**B1: Em tạo 5 danh sách **
+**B1: Em tạo 5 danh sách**
 
 - HPBL 3: Những người truy cập trong thời hạn 3 ngày
 - HPBL 7: Những người truy cập trong thời hạn 7 ngày
@@ -25,6 +25,7 @@ Ví dụ: em sẽ chỉ chạy remarketing trong 3 ngày đầu tiên , ngày th
 - HPBL 17: Những người truy cập trong thời hạn 17 ngày
 
 **B2: Tạo danh sách kết hợp:** HPBL 11 -7 và HPBL 17-14
+
 **Bước cuối: Chạy danh sách tiếp thị** của HPBL3 và HPBL11-7 và HPBL 17-14
 
 #### Chiển thuật 2: Cho sản phẩm phù hợp đuổi theo
@@ -42,5 +43,3 @@ Ví dụ: 3 ngày đầu chạy landing page sản phẩm mà khách hàng chưa
 - Giới thiệu chương trình tri ân, khuyến mãi với khách hàng blah blah...
 
 Chia sẻ anh em bí kíp remarketing không trượt phát nào, bí kíp này là kinh nghiệm chạy mất tiền ngu của mình tổng hợp lại. Viết bởi Trịnh Hải - Izfabo.
- 
-
