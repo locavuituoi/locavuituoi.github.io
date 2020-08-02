@@ -79,7 +79,7 @@ Thay vì đặt label là “OK” thì nên đặt là “Remove” sẽ rõ ng
 
 Label “Remove” giúp làm rõ nghĩa cho chức năng của button hơn hẳn.
 
-[](https://miro.medium.com/max/700/1*J6W62w8Pv2lzuUF7Dk9Y_A.png){: style="display: block; margin: 0 auto"}
+![](https://miro.medium.com/max/700/1*J6W62w8Pv2lzuUF7Dk9Y_A.png){: style="display: block; margin: 0 auto"}
 
 Button “Disable Card” có khả năng gây hại nên được bôi đỏ.
 
@@ -99,13 +99,13 @@ Dropbox dùng kích thước và độ tương phản màu sắc để hướng 
 
 Một số app có button khá nhỏ, điều này hay dẫn đến trường hợp người dùng bị khó bấm và buộc họ phải thử đi thử lại nhiều lần mới đạt được tương tác mong muốn. Đây là điều cũng nên lưu ý và tránh.
 
-[](https://miro.medium.com/max/700/0*Wk2xGGQgUB3fIerb.png){: style="display: block; margin: 0 auto"}
+![](https://miro.medium.com/max/700/0*Wk2xGGQgUB3fIerb.png){: style="display: block; margin: 0 auto"}
 
 Bên trái: Button có kích thước hợp lý – Bên phải: Button quá bé. Ảnh từ Apple.
 
 Theo nghiên cứu thu được từ MIT Touch Lab thì diện tích trung bình của đốt đầu ngón tay rơi vào tầm từ 10-14mm, trong khi đó của đầu ngón tay sẽ là 8-10mm. Do đó, kích thước lý tưởng cho button nên tối thiểu là 10mm x 10mm.
 
-[](https://miro.medium.com/proxy/0*E5IKQ8_HH4rweDAu.jpg){: style="display: block; margin: 0 auto"}
+![](https://miro.medium.com/proxy/0*E5IKQ8_HH4rweDAu.jpg){: style="display: block; margin: 0 auto"}
 
 #### 5. Thứ tự sắp đặt
 
@@ -119,19 +119,19 @@ Ví dụ đơn giản: Làm sao để sắp xếp thứ tự của nút “Previ
 
 Đây là một vấn đề khá phổ biến mà nhiều app hay website mắc phải. Khi bạn càng đưa ra quá nhiều sự lựa chọn, thì người dùng càng không thể đưa ra quyết định nên làm cái gì. Cho nên khi thiết kế một trang bất kỳ cho app hay website, hãy cân nhắc xem hành động nào là quan trọng nhất mà bạn muốn người dùng thực hiện.
 
-[](https://miro.medium.com/max/700/0*TWNAmIkpR7SkXtIt.jpg){: style="display: block; margin: 0 auto"}
+![](https://miro.medium.com/max/700/0*TWNAmIkpR7SkXtIt.jpg){: style="display: block; margin: 0 auto"}
 
 #### 7. Phản hồi lại với tương tác bằng hình ảnh hoặc âm thanh
 
 Khi người dùng click hoặc chạm vào button, họ thường mong đợi rằng hệ thống sẽ có phản hồi lại để biết được là hành động của mình đã được nhận hay chưa. Dựa vào từng loại thao tác mà chúng ta có thể dùng hình ảnh hay âm thanh để tạo ra các phản hồi. Trong trường hợp không có phản hồi thì người dùng hay tự mặc định là hệ thống không nhận được tín hiệu chỉ thị và dẫn tới những điều đáng tiếc. Hãy thử tưởng tượng xem khi bạn đánh dấu chọn vào một lựa chọn và không thấy dấu chữ V hiện ra xem, bạn sẽ nghĩ sao?
 
-[](https://miro.medium.com/max/700/1*ZIZSTlUWe5Vog-jXBiH5og.gif){: style="display: block; margin: 0 auto"}
+![](https://miro.medium.com/max/700/1*ZIZSTlUWe5Vog-jXBiH5og.gif){: style="display: block; margin: 0 auto"}
 
 Thay đổi trạng thái của button là một cách phản hồi lại với tương tác từ người dùng bằng hình ảnh. Ảnh từ ux.stackexchange.com
 
 Trong một vài quá trình hoạt động, như Downloading thì sẽ thú vị hơn nếu thể hiện được tiến độ download thay vì chỉ phản hồi lại với thao tác bấm vào button.
 
-[](https://miro.medium.com/max/700/1*6YGP-5TxLJSuDwBYsKzREg.gif){: style="display: block; margin: 0 auto"}
+![](https://miro.medium.com/max/700/1*6YGP-5TxLJSuDwBYsKzREg.gif){: style="display: block; margin: 0 auto"}
 
 #### Lời kết
 
