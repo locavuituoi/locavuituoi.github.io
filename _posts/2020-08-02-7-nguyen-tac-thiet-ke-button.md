@@ -47,7 +47,7 @@ Không chỉ những yếu tố về thị giác trong button mới quan trọng
 
 ![](https://miro.medium.com/max/420/1*AqsH5XIqUgL9v0_SWbwgKw.png){: style="display: block; margin: 0 auto"}
 
-Là một người dùng, bạn hẳn sẽ cảm thấy phân vân rằng cái nút đó có bấm được không? Hay chỉ đơn giản là một hình chữ nhật nào đấy..{: style="display: block; margin: 0 auto"}
+Là một người dùng, bạn hẳn sẽ cảm thấy phân vân rằng cái nút đó có bấm được không? Hay chỉ đơn giản là một hình chữ nhật nào đấy..
 
 #### 2. Đặt button ở những vị trí quen thuộc
 
