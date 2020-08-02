@@ -77,11 +77,11 @@ List nhỏ ở trên chỉ là một vài nơi mà mình quan sát thấy khá n
 
 http://mag.dxsaigon.com/where-to-study-design-in-saigon/
 
-_Và sau khi bạn xác định được việc mình sẽ nuôi dưỡng kiến thức ở đâu và lại giả dụ thêm một lần nữa là bạn đã hoàn thành khóa học một cách tốt nhất có thể thì xin chúc mừng bạn, bạn đã đặt được một ngón chân vào vị trí Designer rồi!!!!! xD
+_Và sau khi bạn xác định được việc mình sẽ nuôi dưỡng kiến thức ở đâu và lại giả dụ thêm một lần nữa là bạn đã hoàn thành khóa học một cách tốt nhất có thể thì xin chúc mừng bạn, bạn đã đặt được một ngón chân vào vị trí Designer rồi!!!!! xD_
 
-Tại sao lại chỉ có một ngón chân thôi á? Vì đây chỉ mới là giai đoạn đầu thôi, bạn còn chưa biết mình sẽ bắt đầu công việc đầu tiên như thế nào, hay ở đâu nữa kia mà. Cho nên đừng vội. Đọc tiếp nhen!_
+_Tại sao lại chỉ có một ngón chân thôi á? Vì đây chỉ mới là giai đoạn đầu thôi, bạn còn chưa biết mình sẽ bắt đầu công việc đầu tiên như thế nào, hay ở đâu nữa kia mà. Cho nên đừng vội. Đọc tiếp nhen!_
 
-Với rất nhiều kiến thức bạn đã học ở trường lớp, đặc biệt là những kỹ năng bạn đã tôi luyện trong suốt một thời gian kha khá thì chắc chắn là bạn cũng đã có một vài nơi trong tầm ngắm để gửi gắm bản thân. Nhưng cho dù có thế đi nữa thì thị trường đôi khi lại rất khắc nghiệt, cái bạn có lắm lúc lại chả phải cái họ cần nên thành thử ra có rất nhiều bạn đã phải hi sinh ít năm trong sự nghiệp để có được một vị trí vững chắc trong nghề, cắm rễ đủ lâu để vươn ra những nhánh cây cao xa hơn. Mình và bạn chắc chắn đều không muốn như thế cho nên..
+_Với rất nhiều kiến thức bạn đã học ở trường lớp, đặc biệt là những kỹ năng bạn đã tôi luyện trong suốt một thời gian kha khá thì chắc chắn là bạn cũng đã có một vài nơi trong tầm ngắm để gửi gắm bản thân. Nhưng cho dù có thế đi nữa thì thị trường đôi khi lại rất khắc nghiệt, cái bạn có lắm lúc lại chả phải cái họ cần nên thành thử ra có rất nhiều bạn đã phải hi sinh ít năm trong sự nghiệp để có được một vị trí vững chắc trong nghề, cắm rễ đủ lâu để vươn ra những nhánh cây cao xa hơn. Mình và bạn chắc chắn đều không muốn như thế cho nên.._
 
 ### Làm ở đâu?
 
