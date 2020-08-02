@@ -67,7 +67,7 @@ Một ví dụ dễ hiểu, hãy tự đặt mình vào vị trí người dùng
 
 ![](https://miro.medium.com/max/462/1*r5O0A-xt1rn_WE3evCC8ww.png){: style="display: block; margin: 0 auto"}
 
-Cái label “OK” không diễn đạt đủ hết chức năng chính của button.{: style="display: block; margin: 0 auto"}
+Cái label “OK” không diễn đạt đủ hết chức năng chính của button.
 
 “OK” và “Cancel” còn khá lá mông lung trong tình huống này, phần lớn người dùng sẽ thường tự hỏi là “Nếu mình bấm nút Cancel thì sao nhỉ?”
 
@@ -77,11 +77,11 @@ Thay vì đặt label là “OK” thì nên đặt là “Remove” sẽ rõ ng
 
 ![](https://miro.medium.com/max/442/1*gfo-E00mGVPVYc_H80lkmg.png){: style="display: block; margin: 0 auto"}
 
-Label “Remove” giúp làm rõ nghĩa cho chức năng của button hơn hẳn.{: style="display: block; margin: 0 auto"}
+Label “Remove” giúp làm rõ nghĩa cho chức năng của button hơn hẳn.
 
 [](https://miro.medium.com/max/700/1*J6W62w8Pv2lzuUF7Dk9Y_A.png){: style="display: block; margin: 0 auto"}
 
-Button “Disable Card” có khả năng gây hại nên được bôi đỏ.{: style="text-align:center"}
+Button “Disable Card” có khả năng gây hại nên được bôi đỏ.
 
 #### 4. Đặt kích thước cho button hợp lý
 
@@ -95,13 +95,46 @@ Hãy để những button quan trọng nhất được thể hiện tầm ảnh 
 
 Dropbox dùng kích thước và độ tương phản màu sắc để hướng sự tập trung của người dùng vào button “Try Dropbox Business free”.
 
-Kích thước button hợp lý
+**Kích thước button hợp lý**
+
 Một số app có button khá nhỏ, điều này hay dẫn đến trường hợp người dùng bị khó bấm và buộc họ phải thử đi thử lại nhiều lần mới đạt được tương tác mong muốn. Đây là điều cũng nên lưu ý và tránh.
 
-
+[](https://miro.medium.com/max/700/0*Wk2xGGQgUB3fIerb.png){: style="display: block; margin: 0 auto"}
 
 Bên trái: Button có kích thước hợp lý – Bên phải: Button quá bé. Ảnh từ Apple.
 
 Theo nghiên cứu thu được từ MIT Touch Lab thì diện tích trung bình của đốt đầu ngón tay rơi vào tầm từ 10-14mm, trong khi đó của đầu ngón tay sẽ là 8-10mm. Do đó, kích thước lý tưởng cho button nên tối thiểu là 10mm x 10mm.
 
+[](https://miro.medium.com/proxy/0*E5IKQ8_HH4rweDAu.jpg){: style="display: block; margin: 0 auto"}
 
+#### 5. Thứ tự sắp đặt
+
+Đây cũng là một yếu tố cần thiết để giữ được sự tự nhiên trong việc tương tác của người dùng với hệ thống. Hãy luôn tự hỏi xem thứ tự sắp đặt như nào sẽ là thích hợp cho người dùng và cố gắng thiết kế theo như thế.
+
+> Giao diện người dùng (User interface) đơn giản là một cuộc đối thoại với người dùng của bạn.
+
+Ví dụ đơn giản: Làm sao để sắp xếp thứ tự của nút “Previous/Next” trong việc chuyển trang qua lại? Giải thích có lý nhất chính là button nào hướng về hành động đi tới thì nên đặt bên phải, còn button hướng hành động đi lùi lại thì nên ở bên trái.
+
+#### 6. Tránh dùng quá nhiều button
+
+Đây là một vấn đề khá phổ biến mà nhiều app hay website mắc phải. Khi bạn càng đưa ra quá nhiều sự lựa chọn, thì người dùng càng không thể đưa ra quyết định nên làm cái gì. Cho nên khi thiết kế một trang bất kỳ cho app hay website, hãy cân nhắc xem hành động nào là quan trọng nhất mà bạn muốn người dùng thực hiện.
+
+[](https://miro.medium.com/max/700/0*TWNAmIkpR7SkXtIt.jpg){: style="display: block; margin: 0 auto"}
+
+#### 7. Phản hồi lại với tương tác bằng hình ảnh hoặc âm thanh
+
+Khi người dùng click hoặc chạm vào button, họ thường mong đợi rằng hệ thống sẽ có phản hồi lại để biết được là hành động của mình đã được nhận hay chưa. Dựa vào từng loại thao tác mà chúng ta có thể dùng hình ảnh hay âm thanh để tạo ra các phản hồi. Trong trường hợp không có phản hồi thì người dùng hay tự mặc định là hệ thống không nhận được tín hiệu chỉ thị và dẫn tới những điều đáng tiếc. Hãy thử tưởng tượng xem khi bạn đánh dấu chọn vào một lựa chọn và không thấy dấu chữ V hiện ra xem, bạn sẽ nghĩ sao?
+
+[](https://miro.medium.com/max/700/1*ZIZSTlUWe5Vog-jXBiH5og.gif){: style="display: block; margin: 0 auto"}
+
+Thay đổi trạng thái của button là một cách phản hồi lại với tương tác từ người dùng bằng hình ảnh. Ảnh từ ux.stackexchange.com
+
+Trong một vài quá trình hoạt động, như Downloading thì sẽ thú vị hơn nếu thể hiện được tiến độ download thay vì chỉ phản hồi lại với thao tác bấm vào button.
+
+[](https://miro.medium.com/max/700/1*6YGP-5TxLJSuDwBYsKzREg.gif){: style="display: block; margin: 0 auto"}
+
+#### Lời kết
+
+Mặc dù sự thật rằng button chỉ là một yếu tố rất bình thường trong thiết kế tương tác nhưng nó cũng lại rất đáng để lưu tâm để button có thể phát huy hết toàn bộ khả năng của nó. Trong việc thiết kế trải nghiệm cho người dùng, chúng ta nên luôn cân nhắc sao cho button có thể đạt được sự chú ý cần thiết cho chúng. Có như vậy, người dùng mới có thể dễ dàng trong từng thao tác với giao diện cũng như tránh gây ra những thiếu sót ảnh hưởng tới hiệu năng của sản phẩm.
+
+Bài viết gốc: https://uxplanet.org/7-basic-rules-for-button-design-63dcdf5676b4. Dịch bởi Eggcademy.
