@@ -83,14 +83,15 @@ Label “Remove” giúp làm rõ nghĩa cho chức năng của button hơn hẳ
 
 Button “Disable Card” có khả năng gây hại nên được bôi đỏ.{: style="text-align:center"}
 
-Đặt kích thước cho button hợp lý
+#### 4. Đặt kích thước cho button hợp lý
 
 Kích thước của button nên phản ánh được mức độ ưu tiên của từng phần trong thiết kế. Button to đồng nghĩa với mức độ quan trọng của hành động đi kèm.
 
-Làm nổi bật button
+**Làm nổi bật button**
+
 Hãy để những button quan trọng nhất được thể hiện tầm ảnh hưởng của mình bằng cách luôn cho chúng thật nổi bật với kích thước to hơn và có độ tương phản màu sắc cao. Điều này sẽ giúp button có được sự chú ý cần có từ người dùng.
 
-
+[](https://miro.medium.com/max/700/1*VZEHys1AKuFEuMNc67KGGQ.png){: style="display: block; margin: 0 auto"}
 
 Dropbox dùng kích thước và độ tương phản màu sắc để hướng sự tập trung của người dùng vào button “Try Dropbox Business free”.
 
