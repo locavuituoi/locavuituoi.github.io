@@ -37,7 +37,7 @@ Dưới đây là một số thiết kế button quen thuộc với hầu hết 
 - Filled button with shadows
 - Ghost button
 
-<span style="align:center;"![](https://miro.medium.com/max/224/1*UZTsPglcLschWx2IUMt7dg.png)</span>
+<span style="align:center;">![](https://miro.medium.com/max/224/1*UZTsPglcLschWx2IUMt7dg.png)</span>
 
 Trong tất cả những ví dụ trên thì dạng “Filled button with shadows” là quen thuộc với hầu hết người dùng nhất do lớp shadow bên dưới tạo cảm giác ba chiều và người dùng thì lại thường có phản ứng khá tốt với các dạng hình ảnh ba chiều này.
 
@@ -45,7 +45,7 @@ Trong tất cả những ví dụ trên thì dạng “Filled button with shadow
 
 Không chỉ những yếu tố về thị giác trong button mới quan trọng. Mà ngay cả khoảng không gian xung quanh button cũng đóng vai trò giúp cho việc nhận ra được button dễ hay khó nữa. Như cái hình ví dụ dưới đây, nhiều người sẽ dễ lầm cái ghost button đấy thành một hình chữ nhật bỗ nghĩa cho cả đoạn văn bản.
 
-<span style="align:center;"![](https://miro.medium.com/max/420/1*AqsH5XIqUgL9v0_SWbwgKw.png)</span>
+<span style="align:center;">![](https://miro.medium.com/max/420/1*AqsH5XIqUgL9v0_SWbwgKw.png)</span>
 
 Là một người dùng, bạn hẳn sẽ cảm thấy phân vân rằng cái nút đó có bấm được không? Hay chỉ đơn giản là một hình chữ nhật nào đấy..
 
