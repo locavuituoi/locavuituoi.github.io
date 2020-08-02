@@ -5,10 +5,12 @@ author: sal
 categories:
   - Thiết kế
 tag: Hội hoạ
-image: assets/images/nguyen-hue-dieu-khien-hai-tac.jpg
+image: assets/images/women-preparing-silk-after-zhang-xuan-sao-chep-co-nhan.jpg
 tags: Hội hoạ
+title: Sao chép cổ nhân
 ---
-Phần dưới đây là một là tiểu luận hay nhất từng được viết về việc sao chép các bậc thày. Nó khiến truyền thống vẽ ‘theo lối vẽ’ của một bậc thày trong quá khứ trở nên minh bạch dễ hiểu.
+Phần dưới đây là một là tiểu luận hay nhất từng được viết về việc sao chép các bậc thày. Nó khiến truyền thống vẽ ‘theo lối vẽ’ của một bậc thày trong quá khứ trở nên minh bạch dễ hiểu!
+
 
 Người học vẽ phải sao chép các tranh cổ, cũng như người học viết phải nghiên cứu cách viết đẹp được truyền lại qua nhiều thế hệ. Y phải đặt tâm trí trong trạng thái cảm thấy như thể chính y đang vẽ bức tranh đó. Đó là cách học có hiệu quả. Còn cố sao chép cho chính xác thì cũng giống như đạo văn. Đầu tiên y cần sao chép một hoạ sỹ, rồi mở rộng sao chép những hoạ sỹ khác và, quan trọng hơn, y cần cảm thấy như thể chính y đang thâm nhập vào bức tranh và cần đồng cảm với điều hoạ sỹ muốn nói. Thế rồi y sẽ có thể tìm thấy chính mình (‘Vì sao ta là ta’). Đầu tiên y dựa vào những người khác, sau đó y có thể đứng độc lập. Ví dụ Cự Nhiên [2] vẽ theo Đổng Nguyên [3], Mễ Phí [4] và con trai cũng vẽ theo họ Đổng, rồi Hoàng Công Vọng [5], Vương Mông [5], Nghê Toản [5] và Ngô Trấn [5], tất cả đều vẽ theo họ Đổng.  Chỉ cùng là một thứ vậy mà không hề có tí dấu hiệu nào là đi theo lối mòn cả, mà mỗi người trong họ đã phát triển họa phái của riêng mình và đã ‘tìm thấy chính mình’. Người thời nay thường cố sao chép đường viền chính xác và các nét bút, vậy mà kết quả cũng chẳng khác gì thứ họ tự vẽ ra. Nguyên nhân không nằm ở đường viền và nét bút mà ở trình độ chung mà họ đạt được.
 
