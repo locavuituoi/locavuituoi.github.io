@@ -79,6 +79,6 @@ Thay vì đặt label là “OK” thì nên đặt là “Remove” sẽ rõ ng
 
 Label “Remove” giúp làm rõ nghĩa cho chức năng của button hơn hẳn.
 
-
+<span style="display: block; margin: 0 auto;">![Button “Disable Card” có khả năng gây hại nên được bôi đỏ](https://miro.medium.com/max/700/1*J6W62w8Pv2lzuUF7Dk9Y_A.png)</span>
 
 Button “Disable Card” có khả năng gây hại nên được bôi đỏ. Credit
