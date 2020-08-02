@@ -79,6 +79,28 @@ Thay vì đặt label là “OK” thì nên đặt là “Remove” sẽ rõ ng
 
 Label “Remove” giúp làm rõ nghĩa cho chức năng của button hơn hẳn.{: style="display: block; margin: 0 auto"}
 
-[Button “Disable Card” có khả năng gây hại nên được bôi đỏ](https://miro.medium.com/max/700/1*J6W62w8Pv2lzuUF7Dk9Y_A.png){: style="display: block; margin: 0 auto"}
+[](https://miro.medium.com/max/700/1*J6W62w8Pv2lzuUF7Dk9Y_A.png){: style="display: block; margin: 0 auto"}
 
-Button “Disable Card” có khả năng gây hại nên được bôi đỏ.{: style="display: block; margin: 0 auto"}
+Button “Disable Card” có khả năng gây hại nên được bôi đỏ.{: style="text-align:center"}
+
+Đặt kích thước cho button hợp lý
+
+Kích thước của button nên phản ánh được mức độ ưu tiên của từng phần trong thiết kế. Button to đồng nghĩa với mức độ quan trọng của hành động đi kèm.
+
+Làm nổi bật button
+Hãy để những button quan trọng nhất được thể hiện tầm ảnh hưởng của mình bằng cách luôn cho chúng thật nổi bật với kích thước to hơn và có độ tương phản màu sắc cao. Điều này sẽ giúp button có được sự chú ý cần có từ người dùng.
+
+
+
+Dropbox dùng kích thước và độ tương phản màu sắc để hướng sự tập trung của người dùng vào button “Try Dropbox Business free”.
+
+Kích thước button hợp lý
+Một số app có button khá nhỏ, điều này hay dẫn đến trường hợp người dùng bị khó bấm và buộc họ phải thử đi thử lại nhiều lần mới đạt được tương tác mong muốn. Đây là điều cũng nên lưu ý và tránh.
+
+
+
+Bên trái: Button có kích thước hợp lý – Bên phải: Button quá bé. Ảnh từ Apple.
+
+Theo nghiên cứu thu được từ MIT Touch Lab thì diện tích trung bình của đốt đầu ngón tay rơi vào tầm từ 10-14mm, trong khi đó của đầu ngón tay sẽ là 8-10mm. Do đó, kích thước lý tưởng cho button nên tối thiểu là 10mm x 10mm.
+
+
