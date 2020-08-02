@@ -58,3 +58,9 @@ Hiện tại, theo như cá nhân mình quan sát được thì đang có 3 các
 - Dạy sử dụng công cụ thiết kế trước. Cách dạy này là phổ biến nhất từ trước tới nay, một số trung tâm nổi bật ở cách dạy này đó là hệ thống của ARENA (ARENA Nguyễn Đình Chiểu, FPT, Keyframe,...).
 : - Ưu: Học xong ra đi làm được liền (mình là một ví dụ), kiến thức tương đối dễ nuốt, đa dạng từ các kiểu graphic thông thường tới cả 3D hay làm phim dễ hấp thụ, cách dạy cũng tương đối bài bản, học xong có cấp bằng (dù bằng cấp ở mảng này không mấy ai cần nhưng nếu bạn nào được ba mẹ chu cấp thì họ vẫn sẽ cần thấy cái này)
 : - Nhược: Vì kiến thức thì nhiều mà thời gian học lại ngắn (khoảng 2 năm, học 3 buổi / tuần) nên còn khá sơ sài, đặc biệt là những kiến thức cơ bản, giảng viên có người dạy tốt, người thì không, cơ sở vật chất chưa cao và giáo trình cũng khá là lạc hậu.
+
+- Những bạn nào còn trẻ, vừa mới tốt nghiệp cấp 3 hoặc có nguyện vọng đổi chuyên ngành thì khá thích hợp bởi các bạn sẽ được trải nghiệm sơ lược qua hầu hết các dạng kiến thức khác nhau để từ đó dễ đưa ra lựa chọn cho chính bản thân mình hơn.
+
+- Môi trường sư phạm: Đó là các trường Cao Đẳng - Đại Học có chuyên ngành thiết kế như Hoa Sen, Hoa Súng, RMIT, Kiến Trúc,...
+: - Ưu: Kiến thức được hệ thống khá chắc chắn và bài bản, giáo trình được biên soạn chất lượng và có cập nhật, giảng viên hầu hết đều có thâm niên nhất định trong nghề, cơ sở vật chất khá tốt, có thư viện xịn để tham khảo, có cấp bằng cấp sau khi hoàn thành chương trình học.
+: - Nhược: Thời gian học khá là dài (3-4 năm), vì là môi trường sư phạm nên thường hay phải học kèm với một số môn bắt buộc khác, sau khi học thường mất một chút thời gian ngắn để có thể có được công việc ưng ý.
