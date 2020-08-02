@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: Bí kíp Remarrketing không trượt phát nào!
+title: Bí kíp Remarketing không trượt phát nào!
 author: john
 categories:
   - Marketing
