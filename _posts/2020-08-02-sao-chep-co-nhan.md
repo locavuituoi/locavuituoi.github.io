@@ -6,6 +6,7 @@ categories:
   - Thiết kế
 tag: Hội hoạ
 image: assets/images/nguyen-hue-dieu-khien-hai-tac.jpg
+tags: Hội hoạ
 ---
 Phần dưới đây là một là tiểu luận hay nhất từng được viết về việc sao chép các bậc thày. Nó khiến truyền thống vẽ ‘theo lối vẽ’ của một bậc thày trong quá khứ trở nên minh bạch dễ hiểu.
 
