@@ -5,7 +5,7 @@ layout: post
 author: john
 categories:
   - Thiết kế
-image: assets/images/16.jp
+image: assets/images/16.jpg
 ---
 Câu hỏi này của bác Pằng Chéo trên slack Eggcademy, cũng khá liên quan tới câu chuyện cá nhân nên xin mạn phép trả lời, ở đây.
 
