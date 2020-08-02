@@ -135,9 +135,9 @@ Mẹo linh tinh: Dù bản thân mình không thường hay nhảy việc nhưng
 
 Áp dụng tương tự lên CV luôn, hãy chỉ viết và show ra những gì họ cần biết ở bạn là đủ.
 
-Sơ sơ qua một vài cái trên, trông có vẻ dài nhưng thật ra cũng không quá khó đâu, chúng khá là cơ bản và nhờ chúng mà mình mới có thể có được công việc đầu tiên của mình ở YAN cũng như dễ bề chuyển qua một công ty ở một lĩnh vực khác trong thời gian ngắn như vậy. Những điều trên sẽ rất mất thời gian nhưng chúng sẽ giúp ích cho bạn rất nhiều đấy, không chỉ trong những năm tháng đầu tiên không thôi đâu.
+_Sơ sơ qua một vài cái trên, trông có vẻ dài nhưng thật ra cũng không quá khó đâu, chúng khá là cơ bản và nhờ chúng mà mình mới có thể có được công việc đầu tiên của mình ở YAN cũng như dễ bề chuyển qua một công ty ở một lĩnh vực khác trong thời gian ngắn như vậy. Những điều trên sẽ rất mất thời gian nhưng chúng sẽ giúp ích cho bạn rất nhiều đấy, không chỉ trong những năm tháng đầu tiên không thôi đâu._
 
-Và còn một chút nữa, một đoạn nữa mới hết, đoạn này cũng tương đối quan trọng, nó là một phần khác mà suốt mấy năm qua mình nhận ra được. Ráng đọc nốt nhen!
+_Và còn một chút nữa, một đoạn nữa mới hết, đoạn này cũng tương đối quan trọng, nó là một phần khác mà suốt mấy năm qua mình nhận ra được. Ráng đọc nốt nhen!_
 
 ### Kỹ năng mềm
 
