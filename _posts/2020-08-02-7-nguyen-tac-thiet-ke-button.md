@@ -37,7 +37,7 @@ Dưới đây là một số thiết kế button quen thuộc với hầu hết 
 - Filled button with shadows
 - Ghost button
 
-<span style="display: block; margin: 0 auto;">![](https://miro.medium.com/max/224/1*UZTsPglcLschWx2IUMt7dg.png)</span>
+![](https://miro.medium.com/max/224/1*UZTsPglcLschWx2IUMt7dg.png){: style="display: block; margin: 0 auto"}
 
 Trong tất cả những ví dụ trên thì dạng “Filled button with shadows” là quen thuộc với hầu hết người dùng nhất do lớp shadow bên dưới tạo cảm giác ba chiều và người dùng thì lại thường có phản ứng khá tốt với các dạng hình ảnh ba chiều này.
 
@@ -45,7 +45,7 @@ Trong tất cả những ví dụ trên thì dạng “Filled button with shadow
 
 Không chỉ những yếu tố về thị giác trong button mới quan trọng. Mà ngay cả khoảng không gian xung quanh button cũng đóng vai trò giúp cho việc nhận ra được button dễ hay khó nữa. Như cái hình ví dụ dưới đây, nhiều người sẽ dễ lầm cái ghost button đấy thành một hình chữ nhật bỗ nghĩa cho cả đoạn văn bản.
 
-<span style="display: block; margin: 0 auto;">![](https://miro.medium.com/max/420/1*AqsH5XIqUgL9v0_SWbwgKw.png)</span>
+![](https://miro.medium.com/max/420/1*AqsH5XIqUgL9v0_SWbwgKw.png){: style="display: block; margin: 0 auto"}
 
 Là một người dùng, bạn hẳn sẽ cảm thấy phân vân rằng cái nút đó có bấm được không? Hay chỉ đơn giản là một hình chữ nhật nào đấy..
 
@@ -65,7 +65,7 @@ Khi nhiều button bị trùng nhau hoặc label sai sẽ rất dễ dàng gây 
 
 Một ví dụ dễ hiểu, hãy tự đặt mình vào vị trí người dùng và bạn vô tình bấm vô cái nút Delete, dưới đây là cái bảng báo lỗi hiện ra.
 
-<span style="display: block; margin: 0 auto;">![](https://miro.medium.com/max/462/1*r5O0A-xt1rn_WE3evCC8ww.png)</span>
+![](https://miro.medium.com/max/462/1*r5O0A-xt1rn_WE3evCC8ww.png){: style="display: block; margin: 0 auto"}
 
 Cái label “OK” không diễn đạt đủ hết chức năng chính của button.
 
@@ -75,10 +75,10 @@ Cái label “OK” không diễn đạt đủ hết chức năng chính của b
 
 Thay vì đặt label là “OK” thì nên đặt là “Remove” sẽ rõ nghĩa hơn nhiều. Ngoài ra, nếu việc Delete là một thao tác có khả năng gây hại thì có thể tô đỏ button lên để biểu thị tốt hơn.
 
-![](https://miro.medium.com/max/442/1*gfo-E00mGVPVYc_H80lkmg.png){: style="display: block; margin: 0 auto;"}
+![](https://miro.medium.com/max/442/1*gfo-E00mGVPVYc_H80lkmg.png){: style="display: block; margin: 0 auto"}
 
 Label “Remove” giúp làm rõ nghĩa cho chức năng của button hơn hẳn.
 
-<span style="display: block; margin: 0 auto;">![Button “Disable Card” có khả năng gây hại nên được bôi đỏ](https://miro.medium.com/max/700/1*J6W62w8Pv2lzuUF7Dk9Y_A.png)</span>
+[Button “Disable Card” có khả năng gây hại nên được bôi đỏ](https://miro.medium.com/max/700/1*J6W62w8Pv2lzuUF7Dk9Y_A.png){: style="display: block; margin: 0 auto"}
 
 Button “Disable Card” có khả năng gây hại nên được bôi đỏ. Credit
