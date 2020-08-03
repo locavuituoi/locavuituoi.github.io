@@ -11,7 +11,7 @@ Những điều nhỏ nhặt như cách viết hoa cũng có thể là một v�
 
 Bài viết được dịch lại từ “Making a case for letter case” của John Saito - UX writer tại Dropbox.
 
-![Một thông báo trên iPhone]({{site.baseurl}}/_assets/images/vidu-thong-bao.jpg)
+![Một thông báo trên iPhone]({{site.baseurl}}/assets/images/vidu-thong-bao.jpg)
 
 
 Liệu bạn có thể nhận ra điểm khác biệt trong 2 thông báo trên? Ồ, có vẻ như thông báo bên trái có nhiều chữ cái được viết hoa hơn. Nhưng việc viết hoa như vậy đâu có gì đáng quan trọng. Ai lại quan tâm điều đó cơ chứ?
@@ -34,7 +34,7 @@ Nếu bạn đã từng sử dụng một sản phẩm bất kỳ của Apple, b
 
 Nếu bạn là người sử dụng các sản phẩm của Google, bạn sẽ lại có thể thấy sentence case được áp dụng nhiều hơn cả, và lý do cũng bởi vì hệ thống hướng dẫn thiết kế của Google khuyến nghị việc sử dụng sentence case cho hầu hết mọi trường hợp.
 
-![Thông báo của iPhone và Google]({{site.baseurl}}/_assets/images/thong-bao-cua-iphone-va-google.png)
+![Thông báo của iPhone và Google]({{site.baseurl}}/assets/images/thong-bao-cua-iphone-va-google.png)
 
 Cho dù bạn có là Apple fanboy hay Google fanboy, thuộc team iPhone hay team Android khi đưa ra quyết định về việc sử dụng title case hay sentence case, sẽ tốt hơn nếu bạn hiểu được ý nghĩa của việc sử dụng chúng trong các sản phẩm của mình. Hãy cùng tìm hiểu sâu hơn về 2 cách viết hoa này nhé.
 
