@@ -8,9 +8,7 @@ categories:
 image: assets/images/we-love-ux.jpg
 tags: UX/UI
 ---
-Những điều nhỏ nhặt như cách viết hoa cũng có thể là một vấn đề quan trọng.
-
-Bài viết được dịch lại từ “Making a case for letter case” của John Saito - UX writer tại Dropbox.
+Những điều nhỏ nhặt như cách viết hoa cũng có thể là một vấn đề quan trọng. Bài viết được dịch lại từ “Making a case for letter case” của John Saito - UX writer tại Dropbox.
 
 ![Một thông báo trên iPhone]({{site.baseurl}}/assets/images/tinh-noi-bat-ve-mat-truc-quan.jpg)
 
