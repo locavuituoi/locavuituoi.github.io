@@ -12,7 +12,7 @@ Những điều nhỏ nhặt như cách viết hoa cũng có thể là một v�
 
 Bài viết được dịch lại từ “Making a case for letter case” của John Saito - UX writer tại Dropbox.
 
-![Một thông báo trên iPhone]({{site.baseurl}}/assets/images/vidu-thong-bao.jpg)
+![Một thông báo trên iPhone]({{site.baseurl}}/assets/images/tinh-noi-bat-ve-mat-truc-quan.jpg)
 
 
 Liệu bạn có thể nhận ra điểm khác biệt trong 2 thông báo trên? Ồ, có vẻ như thông báo bên trái có nhiều chữ cái được viết hoa hơn. Nhưng việc viết hoa như vậy đâu có gì đáng quan trọng. Ai lại quan tâm điều đó cơ chứ?
