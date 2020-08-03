@@ -127,4 +127,4 @@ Title case hay sentence case đều có những ưu điểm của riêng mình. 
 Vậy còn bạn thì sao? Bạn là một fan hâm mộ của sentence case hay Title Case? lower case hay CAPS? Hay bạn chỉ là một kẻ nổi loạn, thích tự tạo ra những luật lệ cho riêng mình?
 Bất kể lựa chọn của bạn là gì, tôi cũng sẽ rất vui khi được nghe ý kiến của bạn về việc này. Hãy chia sẻ suy nghĩ, hay đưa ra những câu hỏi của bạn trong phần comment dưới đây 👇
 
-https://eggcademy.mn.co/posts/viết-hoa-khong-viết-hoa
+Chia sẻ bởi Son Nguyen / Eggcademy
