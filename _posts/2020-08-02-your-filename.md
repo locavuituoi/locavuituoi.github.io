@@ -1,10 +1,10 @@
 ---
-published: false
+published: true
 title: 'Viết hoa, không viết hoa?'
 layout: post
-author: sal
+author: john
 categories:
-  - Tổng hợp
+  - Thiết kế
 image: assets/images/dieu-gi-khien-nguoi-giau-hanh-phuc-hon.jpeg
 ---
 Những điều nhỏ nhặt như cách viết hoa cũng có thể là một vấn đề quan trọng.
