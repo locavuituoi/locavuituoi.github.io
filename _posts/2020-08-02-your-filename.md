@@ -34,6 +34,8 @@ Nếu bạn đã từng sử dụng một sản phẩm bất kỳ của Apple, b
 
 Nếu bạn là người sử dụng các sản phẩm của Google, bạn sẽ lại có thể thấy sentence case được áp dụng nhiều hơn cả, và lý do cũng bởi vì hệ thống hướng dẫn thiết kế của Google khuyến nghị việc sử dụng sentence case cho hầu hết mọi trường hợp.
 
+![Thông báo của iPhone và Google]({{site.baseurl}}/_assets/images/thong-bao-cua-iphone-va-google.png)
+
 Cho dù bạn có là Apple fanboy hay Google fanboy, thuộc team iPhone hay team Android khi đưa ra quyết định về việc sử dụng title case hay sentence case, sẽ tốt hơn nếu bạn hiểu được ý nghĩa của việc sử dụng chúng trong các sản phẩm của mình. Hãy cùng tìm hiểu sâu hơn về 2 cách viết hoa này nhé.
 
 ### Title case có những ưu điểm gì?
