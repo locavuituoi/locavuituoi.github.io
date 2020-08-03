@@ -5,7 +5,8 @@ layout: post
 author: john
 categories:
   - Thiết kế
-image: assets/images/dieu-gi-khien-nguoi-giau-hanh-phuc-hon.jpeg
+image: assets/images/we-love-ux.jpg
+tags: UX/UI
 ---
 Những điều nhỏ nhặt như cách viết hoa cũng có thể là một vấn đề quan trọng.
 
