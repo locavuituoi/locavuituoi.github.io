@@ -1,5 +1,11 @@
 ---
 published: false
+title: 'Viết hoa, không viết hoa?'
+layout: post
+author: sal
+categories:
+  - Tổng hợp
+image: assets/images/dieu-gi-khien-nguoi-giau-hanh-phuc-hon.jpeg
 ---
 Những điều nhỏ nhặt như cách viết hoa cũng có thể là một vấn đề quan trọng.
 
@@ -46,7 +52,7 @@ Một số người cảm thấy rằng title case trông ưng mắt hơn do s�
 
 Tính nổi bật về mặt trực quan thực chất chỉ là một cách nói khác của việc title case sẽ khiến thông điệp trở nên nổi bật hơn. Những chữ cái được viết hoa cũng giống như những cánh tay đang giơ lên 🙌, giúp nhấn mạnh hơn tiêu đề của bạn. Title case sẽ đặc biệt hữu dụng khi bạn không thể điều chỉnh font style, bởi nó sẽ giúp tạo ra sự khác biệt giữa phần tiêu đề và nội dung của bạn.
 
-image
+![Tính nổi bật về mặt trực quan]({{site.baseurl}}/assets/images/tinh-noi-bat-ve-mat-truc-quan.jpg)
 
 Bạn có nhận thấy phần tiêu đề của ảnh bên trái nổi bật hơn so với tiêu đề của ảnh bên phải không? Khi tiêu đề càng trở nên nổi bật hơn, sẽ càng có nhiều người hơn đọc nó.
 
@@ -56,7 +62,7 @@ Title case đem đến cho câu văn của bạn cảm giác về sự trang ngh
 
 Sử dụng title case cũng giống như việc mặc lên cho những ngôn từ của bạn một bộ cánh lịch lãm. Với một vài thương hiệu cụ thể, bạn sẽ muốn những điều mình viết ra đem đến cảm giác nghiêm túc. Nếu bạn đang kinh doanh trong lĩnh vực an ninh, title case thường sẽ đem đến cho người đọc cảm giác chuyên nghiệp và đáng tin cậy hơn so với sentence case
 
-image
+![Tăng thêm tính trang trọng]({{site.baseurl}}/assets/images/tang-them-tinh-trang-trong.jpg)
 
 Thử tưởng tượng bạn là một nhân viên của công ty, liệu thông điệp bên trái hay bên phải sẽ đem đến cho bạn cảm giác chuyên nghiệp hơn?
 
@@ -70,7 +76,7 @@ Lý do lớn nhất cho việc tại sao bạn nên sử dụng sentence case l�
 
 Đó chính là lý do vì sao tôi cảm thấy bối rối khi nhìn thấy ảnh chụp màn hình của một thông báo trong bộ hướng dẫn thiết kế của Apple. (Đây cũng chính là bức ảnh chụp màn hình tôi vừa dùng ở trên)
 
-image trên
+![Cảm thấy bối rối vì thông báo này]({{site.baseurl}}/assets/images/mot-thong-bao-tren-iphone-gay-kho-doc.jpg)
 
 #### Dễ để định nghĩa hơn
 
@@ -78,7 +84,7 @@ Theo UX writer đầu tiên của Google - Sue Factor, một trong những lý d
 
 Trên hết, có rất nhiều cách khác nhau để ứng dụng title case. Liệu bạn có muốn viết hoa những giới từ như “from” hay “through”? Thế còn những mạo từ như “the” hay “an”? Dựa vào phong cách mà bạn đang theo đuổi, những quy định cho việc sử dụng title case cũng sẽ khác nhau. Dưới đây là những quy định về việc sử dụng title case theo Apple:
 
-image
+![Dễ để định nghĩa hơn]({{site.baseurl}}/assets/images/de-dinh-nghia-hon.jpg)
 
 Okie, hỏi nhanh một chút. Liệu bạn có nên viết hoa từ “about”?
 
@@ -88,7 +94,7 @@ Nếu bạn có nhiều người đang viết cho sản phẩm hay website của
 
 Khác với title case, sentence case đem đến sự thân thiện và giản dị hơn cho người đọc. Tôi là một UX writer ở Dropbox, và chúng tôi chủ đích sử dụng sentence case bởi chúng tôi mong muốn thương hiệu của mình sẽ đem lại cảm giác tự nhiên và dễ gần. Chúng tôi nghĩ rằng thông điệp sản phẩm sẽ giúp tạo ra sự khác biệt cho chúng tôi với các đối thủ cạnh tranh, và sử dụng sentence case là một cách để thực hiện và duy trì việc này.
 
-image
+![Thân thiện hơn]({{site.baseurl}}/assets/images/than-thien-hon.jpg)
 
 #### Dễ dàng hơn để phân biệt các danh từ riêng
 
@@ -96,7 +102,7 @@ Cuối cùng, sentence case cùng sẽ giúp việc đọc các cụm từ hay c
 
 Rất nhiều công ty ngày nay đặt cho những tính năng và sản phẩm của mình những cái tên mang tính mô tả cụ thể như “Inbox” hay “Calendar”, hay những cái tên khác lạ như “Spark” hay “Fantastical”. Nếu bạn sử dụng title case trong tất cả các button của mình, chúng sẽ khiến người dùng khó phân biệt được danh từ riêng trong câu, từ đó ảnh hưởng tới tính khả dụng của sản phẩm.
 
-image
+![Dễ dàng hơn để phân biệt các danh từ riêng]({{site.baseurl}}/assets/images/de-dang-hon-de-phan-biet-danh-tu-rieng.jpg)
 
 ### Vậy còn các cách viết hoa khác thì sao?
 
@@ -104,11 +110,11 @@ Title case và sentence case là 2 cách viết hoa phổ biến nhất, tuy nhi
 
 Với Window Phone 8, Microsoft sử dụng rất nhiều lowercase (cách viết chữ thường, không in hoa) trên giao diện của họ, kể cả với các tiêu đề và button.
 
-image
+![Windows viết chữ thường]({{site.baseurl}}/assets/images/viet-chu-thuong-windows.jpg)
 
 Hay ở một trường hợp khác, với GIPHY, một trong những website ưa thích nhất của tôi, sử dụng UPPERCASE (viết hoa hết tất cả các chữ cái trong câu) trên giao diện của họ. Điều này cũng hợp lý thôi, do hầu hết các tấm hình meme hài hước đều sử dụng cách viết hoa này.
 
-image
+![Giphy viết chữ in hoa]({{site.baseurl}}/assets/images/giphy-viet-chu-in-hoa.jpg)
 
 ### Còn bạn thì sao?
 
@@ -120,6 +126,3 @@ Vậy còn bạn thì sao? Bạn là một fan hâm mộ của sentence case hay
 Bất kể lựa chọn của bạn là gì, tôi cũng sẽ rất vui khi được nghe ý kiến của bạn về việc này. Hãy chia sẻ suy nghĩ, hay đưa ra những câu hỏi của bạn trong phần comment dưới đây 👇
 
 https://eggcademy.mn.co/posts/viết-hoa-khong-viết-hoa
-
-
-
