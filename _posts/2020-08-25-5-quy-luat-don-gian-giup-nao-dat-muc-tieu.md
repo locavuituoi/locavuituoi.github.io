@@ -1,3 +1,12 @@
+---
+published: true
+layout: post
+author: sal
+categories:
+  - Tổng hợp
+tags: Tâm lý
+image: assets/images/16.jpg
+---
 **Mình đã chinh phục thành công được 2 mục tiêu trong năm vừa rồi: học tâm lý học (từ đầu) và học tiếng Anh (từ đầu) nhờ hiểu và áp dụng đúng.**
 
 Chúng ta hay bị căn bệnh chung khi muốn làm một điều gì đó: khi mới làm thường rất hào hứng và rồi nhanh chóng “gãy gánh giữa đường”, kết quả là bỏ cuộc biến mọi thứ trở thành mây khói.
