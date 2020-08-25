@@ -6,6 +6,7 @@ categories:
   - Tổng hợp
 tags: Tâm lý
 image: assets/images/16.jpg
+title: 5 Quy luật đơn giản giúp não đạt mục tiêu
 ---
 **Mình đã chinh phục thành công được 2 mục tiêu trong năm vừa rồi: học tâm lý học (từ đầu) và học tiếng Anh (từ đầu) nhờ hiểu và áp dụng đúng.**
 
