@@ -30,7 +30,7 @@ Ví dụ về việc đặt câu hỏi mở đầu cho chủ đề “học ti�
 
 Phương pháp này khá hữu hiệu khi bạn đang thực sự “bí". Mở bài bằng câu hỏi sẽ thêm phần hiệu quả nếu kết hợp với phương pháp bắc cầu (công thức số 3).
 
-2. Công thức mở bài APP
+## 2. Công thức mở bài APP
 
 Công thức này được chia sẻ trong case study về copywriting của Brian Dean. Mình thường áp dụng nó cho các dạng content hướng tới khách hàng như trên website, bài quảng cáo...
 
@@ -53,7 +53,7 @@ Nào, let’s go!”
 
 Lại một công thức hoàn hảo để nấu món “bí", phải không nhỉ, hehe!
 
-3. Công thức bắc cầu
+## 3. Công thức bắc cầu
 
 Nó sẽ kết hợp rất tốt với phương pháp đặt câu hỏi đấy. Quan điểm của công thức này là tạo ra một cây cầu nối giữa 2 bờ sông: ảo vọng và thực tế.
 
