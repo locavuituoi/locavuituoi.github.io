@@ -84,9 +84,9 @@ Cảm ơn mọi người dành thời gian đọc bài của mình.
 
 @Cre: Nhung Pandora.
 
+publish: true
 layout: post
 author: sal
 categories:
   - Tổng hợp
 image: assets/images/nguyen-hue-dieu-khien-hai-tac.jpg
-
