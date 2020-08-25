@@ -93,9 +93,3 @@ Nếu có thắc mắc về các quy luật hoạt động của não, tài li�
 Cảm ơn mọi người dành thời gian đọc bài của mình.
 
 @Cre: Nhung Pandora.
-
-layout: post
-author: sal
-categories:
-  - Tổng hợp
-image: assets/images/nguyen-hue-dieu-khien-hai-tac.jpg
