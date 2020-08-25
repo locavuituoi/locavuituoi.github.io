@@ -2,7 +2,7 @@
 published: true
 title: 3 Kĩ thuật định hướng bài viết – để người đọc muốn đọc hoài đọc mãi
 layout: post
-author: sal
+author: john
 categories:
   - Marketing
 tags: content
@@ -20,7 +20,7 @@ Có phải ngày xưa khi còn đi học, cô dạy Văn luôn bắt bạn viế
 
 Ví dụ: Để gây ấn tượng, tò mò, bạn phải giấu thông tin quan trọng đi, để nó ở gần cuối. Bạn có thể thử cấu trúc mở đầu này: gây sốc (tiêu đề) –> gây sốc –> dẫn chứng một tình trạng mà ai cũng gặp –> phủ định cái mà ai cũng biết –> đặt câu hỏi gợi tò mò –> kể chuyện về sản phẩm/dịch vụ/thông tin của bạn (nhưng không được nhắc đến tên của nó, có thể kể về hương vị, màu sắc, nguồn gốc xuất xứ,…)
 
-Bạn có thể đọc lại đoạn đầu bài viết của mình “[MARKETING] TAM GIÁC HUYỀN THOẠI TRONG MARKETING KHÔNG PHẢI AI CŨNG BIẾT” để hiểu thêm nhé.
+Bạn có thể đọc lại đoạn đầu bài viết của mình “MARKETING: TAM GIÁC HUYỀN THOẠI TRONG MARKETING KHÔNG PHẢI AI CŨNG BIẾT” để hiểu thêm nhé.
 
 ## 2. Xuống dòng và khoảng cách
 
