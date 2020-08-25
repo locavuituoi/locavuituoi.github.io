@@ -84,7 +84,6 @@ Cảm ơn mọi người dành thời gian đọc bài của mình.
 
 @Cre: Nhung Pandora.
 
-publish: true
 layout: post
 author: sal
 categories:
