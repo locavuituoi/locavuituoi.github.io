@@ -9,6 +9,7 @@ tags:
 image: assets/images/code.jpg
 title: Ghi đè CSS trong Page Builder của Wordpress
 ---
+![code.jpg]({{site.baseurl}}/assets/images/code.jpg)
 
 
 ## Làm thế nào để sửa element.style
