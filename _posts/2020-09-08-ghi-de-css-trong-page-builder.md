@@ -9,9 +9,6 @@ tags:
 image: assets/images/code.jpg
 title: Ghi đè CSS trong Page Builder của Wordpress
 ---
-![code.jpg]({{site.baseurl}}/assets/images/code.jpg)
-
-
 ## Làm thế nào để sửa element.style
 
 Khi làm việc với WP Bakery tôi phát hiện ra 1 đoạn code phát sinh và 'hơi' khó sửa như sau:
@@ -20,7 +17,7 @@ Khi làm việc với WP Bakery tôi phát hiện ra 1 đoạn code phát sinh v
 <div class="col-md-6 col-sm-6 col-xs-12 masonry-item biet-thu-nha-lien-ke nghi-duong shophouse-officetel" style="position: absolute; left: 0px; top: 279px;">
 ```
 
-Dùng F12, đây là những gì tôi thấy
+Dùng F12, đây là những gì tôi thấy:
 
 ```css
 element.style {
