@@ -7,7 +7,7 @@ categories:
 tags:
   - Code
 image: assets/images/code.jpg
-title: Ghi đè CSS trong Page Builder của Wordpress
+title: Ghi đè CSS trong Page Builder trên Wordpress
 ---
 ## Làm thế nào để sửa element.style
 
