@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 publish: true
 layout: post
 author: sal
