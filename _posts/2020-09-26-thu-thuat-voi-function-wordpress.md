@@ -103,18 +103,23 @@ add_action( 'template_redirect', 'redirect_page' );
 
 ## 6. Dịch từ ngữ trọn vẹn
 
+Mình thấy có khá nhiều blog chia sẻ về cách dịch từ với function.php. Nhưng cách dịch này khiến thay đổi toàn bộ từ ngữ trên trang web. Ví dụ mình dịch từ All -> Tất cả thì từ Install -> InstTấtcả. Và đây là cách khắc phục:
+
 ```php
 //Translate Elementor
 function my_text_strings( $translated_text, $text, $domain ) {
 	switch ( $translated_text ) {
 		case 'All' :
-			$translated_text = __( 'Tất cả', 'elementor' );
+			$translated_text = __( 'Tất cả', 'elementor' ); //Change text domain
 			break;
 	}
 	return $translated_text;
 }
 add_filter( 'gettext', 'my_text_strings', 20, 3 );
 ```
+
+Bạn hãy thay đổi **elementor** thành text domain của bạn. Vậy làm thế nào để tìm text domain?
+Ví dụ: trong đường dẫn wp-content/plugins/woocommerce/ thì woocommerce chính là text domain của bạn.
 
 ## 7. Cài đặt SMTP Gmail
 
