@@ -13,7 +13,7 @@ title: 9 Thủ thuật với function.php trong Wordpress
 
 ## 1. Xoá Widget không mong muốn trên màn hình dashboard
 
-Chúng ta cần chú ý **normal** và **side**
+Chúng ta cần xác định **normal** và **side** bằng cách dùng F12.
 
 ```php
 //Dashboard Widgets
@@ -44,6 +44,8 @@ function remove_core_updates(){
 
 ## 3. Thêm CSS tuỳ chỉnh trong trang quản trị
 
+Bạn chỉ cần viết CSS trong thẻ style.
+
 ```php
 //Fix CSS
 add_action('admin_head', 'lackim_fix_font_gtbg');
@@ -58,12 +60,14 @@ function lackim_fix_font_gtbg() {
 
 ## 4. Thay đổi đường dẫn mặc định của Portfolio
 
+Mình đã đổi /portfolio thành /du-an
+
 ```php
 //Change Slug
 add_filter( 'register_post_type_args', 'wpse247328_register_post_type_args', 10, 2 );
 function wpse247328_register_post_type_args( $args, $post_type ) {
 	if ( 'portfolio' === $post_type ) {
-		$args['rewrite']['slug'] = 'du-an-bds';
+		$args['rewrite']['slug'] = 'du-an';
 	}
 	return $args;
 ```
@@ -138,7 +142,7 @@ function setup_phpmailer_init( $phpmailer ) {
 
 ```
 
-## 8. Nhân bản Post Type bất kỳ
+## 8. Nhân bản bài viết trong Post Type bất kỳ
 
 Hãy thay đổi **portfolio** trong đoạn **if ($post->post_type=='portfolio'** đây thành post type bất kỳ.
 
