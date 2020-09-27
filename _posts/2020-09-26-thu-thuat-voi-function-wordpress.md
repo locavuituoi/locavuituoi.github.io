@@ -226,7 +226,7 @@ add_filter( 'elementor/frontend/print_google_fonts', '__return_false' );
 
 ## 10. Ẩn trang đăng nhập WordPress không cần plugin
 
-Hãy thay đổi 'newlogin' (đường dẫn đăng nhập) với 'NonExistentPage' (trang chuyển hướng khi cố tình truy cập wp-admin mà không phải là newlogin).
+Hãy thay đổi 'newlogin' (đường dẫn đăng nhập example.com/wp-login.php?newlogin) với 'NonExistentPage' (trang chuyển hướng khi cố tình truy cập wp-admin).
 
 ```php
 function redirect_to_nonexistent_page(){
