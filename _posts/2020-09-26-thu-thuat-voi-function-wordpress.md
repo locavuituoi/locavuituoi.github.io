@@ -8,7 +8,7 @@ categories:
 tags:
   - Code
 image: assets/images/code.jpg
-title: 9 Thủ thuật với function.php trong Wordpress
+title: 9 Thủ thuật cực hữu ích với function.php trong Wordpress
 ---
 
 ## 1. Xoá Widget không mong muốn trên màn hình dashboard
