@@ -15,7 +15,7 @@ title: 9 Thủ thuật với function.php trong Wordpress
 
 Chúng ta cần chú ý **normal** và **side**
 
-```c
+```php
 //Dashboard Widgets
 function remove_dashboard_widgets() {
     global $wp_meta_boxes;
@@ -32,7 +32,7 @@ add_action('wp_dashboard_setup', 'remove_dashboard_widgets' );
 
 ## 2. Tắt thông báo của các plugin
 
-```c
+```php
 //Turn Off Notifications
 function remove_core_updates(){
         global $wp_version;return(object) array('last_checked'=> time(),'version_checked'=> $wp_version,);
@@ -44,7 +44,7 @@ function remove_core_updates(){
 
 ## 3. Thêm CSS tuỳ chỉnh trong trang quản trị
 
-```c
+```php
 //Fix CSS
 add_action('admin_head', 'lackim_fix_font_gtbg');
 function lackim_fix_font_gtbg() {
@@ -58,7 +58,7 @@ function lackim_fix_font_gtbg() {
 
 ## 4. Thay đổi đường dẫn mặc định của Portfolio
 
-```c
+```php
 //Change Slug
 add_filter( 'register_post_type_args', 'wpse247328_register_post_type_args', 10, 2 );
 function wpse247328_register_post_type_args( $args, $post_type ) {
@@ -70,7 +70,7 @@ function wpse247328_register_post_type_args( $args, $post_type ) {
 
 ## 5. Chuyển hướng
 
-```c
+```php
 // Redirect
 function redirect_page() {
      if (isset($_SERVER['HTTPS']) &&
@@ -103,7 +103,7 @@ add_action( 'template_redirect', 'redirect_page' );
 
 ## 6. Dịch từ ngữ trọn vẹn
 
-```c
+```php
 //Translate Elementor
 function my_text_strings( $translated_text, $text, $domain ) {
 	switch ( $translated_text ) {
@@ -118,7 +118,7 @@ add_filter( 'gettext', 'my_text_strings', 20, 3 );
 
 ## 7. Cài đặt SMTP Gmail
 
-```c
+```php
 //SMTP
 add_action( 'phpmailer_init', 'setup_phpmailer_init' );
 function setup_phpmailer_init( $phpmailer ) {
@@ -135,9 +135,9 @@ function setup_phpmailer_init( $phpmailer ) {
 
 ## 8. Nhân bản Post Type bất kỳ
 
-Hãy thay đổi portfolio trong đoạn code dưới đây thành post type bất kỳ.
+Hãy thay đổi portfolio trong đoạn **if ($post->post_type=='portfolio'** đây thành post type bất kỳ.
 
-```c
+```php
 //Duplicate Portfolio
 function rd_duplicate_post_as_draft(){
 	global $wpdb;
@@ -210,7 +210,7 @@ add_filter( 'post_row_actions', 'rd_duplicate_post_link', 10, 2 );
 
 ## 9. Vô hiệu hoá Google Fonts trong Elementor
 
-```c
+```php
 //Disable Elementor Google Fonts
 add_filter( 'elementor/frontend/print_google_fonts', '__return_false' );
 ```
