@@ -144,7 +144,7 @@ function setup_phpmailer_init( $phpmailer ) {
 
 ## 8. Nhân bản bài viết trong Post Type bất kỳ
 
-Hãy thay đổi **portfolio** trong đoạn **if ($post->post_type=='portfolio'** đây thành post type bất kỳ.
+Hãy thay đổi **portfolio** trong đoạn **if ($post->post_type=='portfolio'** thành post type bất kỳ.
 
 ```php
 //Duplicate Portfolio
