@@ -11,7 +11,7 @@ image: assets/images/code.jpg
 title: 9 Thủ thuật với function.php trong Wordpress
 ---
 
-## 1. Xoá Widget tại màn hình dashboard
+## 1. Xoá Widget không mong muốn trên màn hình dashboard
 
 Chúng ta cần chú ý **normal** và **side**
 
@@ -140,7 +140,7 @@ function setup_phpmailer_init( $phpmailer ) {
 
 ## 8. Nhân bản Post Type bất kỳ
 
-Hãy thay đổi portfolio trong đoạn **if ($post->post_type=='portfolio'** đây thành post type bất kỳ.
+Hãy thay đổi **portfolio** trong đoạn **if ($post->post_type=='portfolio'** đây thành post type bất kỳ.
 
 ```php
 //Duplicate Portfolio
