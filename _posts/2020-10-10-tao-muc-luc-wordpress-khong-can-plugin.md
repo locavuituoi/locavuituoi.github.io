@@ -54,7 +54,7 @@ function add_table_of_content($content) {
         <?php } ?>
     </ul>
     <?php
-    return str_replace("<p>[[TABLE_OF_CONTENTS]]</p>", ob_get_clean(), $content);
+    return str_replace("<p>[[MUC_LUC]]</p>", ob_get_clean(), $content);
 }
 // add our table of contents filter (from webdeasy.de)
 add_filter('the_content', 'add_table_of_content');
@@ -80,7 +80,7 @@ table-of-contents li {
 ```
 
 ## 3. Hiển thị Mục lục trên bài viết
-Bạn hãy thêm đoạn code này **[[TABLE_OF_CONTENTS]]** lên trên đầu bài viết. Để tạo link cho từng tiêu đề của mục lục, hãy trỏ chuột vào Tiêu đề. Sau đó chọn Nâng cao ở sidebar bên phải > Điểm neo HTML > Nhập ký tự làm điểm neo của bạn. Ví dụ: tieu-de-1.
+Bạn hãy thêm đoạn code này **[[MUC_LUC]]** lên trên đầu bài viết. Để tạo link cho từng tiêu đề của mục lục, hãy trỏ chuột vào Tiêu đề. Sau đó chọn Nâng cao ở sidebar bên phải > Điểm neo HTML > Nhập ký tự làm điểm neo của bạn. Ví dụ: tieu-de-1.
 
 ## Bổ sung
 Để loại bỏ Tiêu đề khỏi mục lục, trên trình soạn thảo Wordpress, bạn hãy thêm class **nitoc** cho tiêu đề. Các bước như sau: Chọn tiêu đề > Chuột phải > Sửa như là HTML > Thêm class="nitoc" trong thẻ H2 hoặc H3. Ví dụ:
