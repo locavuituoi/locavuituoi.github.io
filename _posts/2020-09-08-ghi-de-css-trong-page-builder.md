@@ -41,7 +41,7 @@ div [style$="top: 279px;"]{top:228px !important;}
 
 # Ghi đè thuộc tính ưu tiên !important
 
-Không biết thằng dở người nào làm cái theme khó xơi vl, bỏ cả cái thuộc tính !important vào, bảo sao mãi không sửa được. Vì vậy mình đành phải sửa trên file function.php. Đoạn code mình đã sửa như sau:
+Không biết ông dở người nào làm cái theme khó xơi vl, bỏ cả cái thuộc tính !important vào, khiến mình sửa trên Custom CSS cũng không ăn thua. Vì vậy mình đành phải sửa trên file function.php. Đoạn code mình đã sửa như sau:
 
 ```php
 // Fix Piority CSS.
