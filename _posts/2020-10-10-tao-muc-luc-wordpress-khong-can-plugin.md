@@ -10,8 +10,9 @@ tags:
 image: assets/images/code.jpg
 title: Tạo mục lục Wordpress không cần Plugin
 ---
-Bạn hãy ném đoạn code này vào function
-```
+Bạn hãy ném đoạn code này vào file function.php
+
+```PHP
 // filter function to generate the table of content (from webdeasy.de)
 function add_table_of_content($content) {
     ob_start();
@@ -58,3 +59,24 @@ function add_table_of_content($content) {
 // add our table of contents filter (from webdeasy.de)
 add_filter('the_content', 'add_table_of_content');
 ```
+
+## 2.Thêm một chút CSS cho đẹp
+
+```CSS
+ul.table-of-contents {
+  padding: 1rem;
+  border-left: 3px solid #cecece;
+  background-color: #e6e6e6;
+}
+ul.table-of-contents > li:first-child {
+    margin-bottom: 0.5rem;
+    font-size: 110%;
+}
+table-of-contents li {
+  list-style: none;
+}
+```
+
+## 3. Hiển thị Mục lục trên bài viết
+
+Bạn hãy thêm dòng **{{TABLE_OF_CONTENTS}}** lên trên đầu bài viết. Để tạo link cho từng tiêu đề của mục lục, hãy trỏ chuột vào Tiêu đề. Sau đó chọn Nâng cao ở sidebar bên phải > Điểm neo HTML > Nhập ký tự làm điểm neo của bạn.
