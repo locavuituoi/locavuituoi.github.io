@@ -83,4 +83,6 @@ Bạn hãy thêm dòng **{{TABLE_OF_CONTENTS}}** lên trên đầu bài viết. 
 ## Bổ sung
 Để loại bỏ Tiêu đề khỏi mục lục, trên trình soạn thảo Wordpress, bạn hãy thêm class **nitoc** cho tiêu đề. Các bước như sau: Chọn tiêu đề > Chuột phải > Sửa như là HTML > Thêm class="nitoc" trong thẻ H2 hoặc H3. Ví dụ:
 
+```HTML
 <h2 id="tieu-de-1" class="nitoc">Tiêu đề 1</h2>
+```
