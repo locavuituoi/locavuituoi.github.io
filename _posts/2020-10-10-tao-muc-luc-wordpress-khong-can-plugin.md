@@ -79,4 +79,4 @@ table-of-contents li {
 
 ## 3. Hiển thị Mục lục trên bài viết
 
-Bạn hãy thêm dòng **{{TABLE_OF_CONTENTS}}** lên trên đầu bài viết. Để tạo link cho từng tiêu đề của mục lục, hãy trỏ chuột vào Tiêu đề. Sau đó chọn Nâng cao ở sidebar bên phải > Điểm neo HTML > Nhập ký tự làm điểm neo của bạn.
+Bạn hãy thêm dòng **{{TABLE_OF_CONTENTS}}** lên trên đầu bài viết. Để tạo link cho từng tiêu đề của mục lục, hãy trỏ chuột vào Tiêu đề. Sau đó chọn Nâng cao ở sidebar bên phải > Điểm neo HTML > Nhập ký tự làm điểm neo của bạn. Ví dụ: tieu-de-1.
