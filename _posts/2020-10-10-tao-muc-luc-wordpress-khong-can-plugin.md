@@ -78,5 +78,9 @@ table-of-contents li {
 ```
 
 ## 3. Hiển thị Mục lục trên bài viết
-
 Bạn hãy thêm dòng **{{TABLE_OF_CONTENTS}}** lên trên đầu bài viết. Để tạo link cho từng tiêu đề của mục lục, hãy trỏ chuột vào Tiêu đề. Sau đó chọn Nâng cao ở sidebar bên phải > Điểm neo HTML > Nhập ký tự làm điểm neo của bạn. Ví dụ: tieu-de-1.
+
+## Bổ sung
+Để loại bỏ Tiêu đề khỏi mục lục, trên trình soạn thảo Wordpress, bạn hãy thêm class **nitoc** cho tiêu đề. Các bước như sau: Chọn tiêu đề > Chuột phải > Sửa như là HTML > Thêm class="nitoc" trong thẻ H2 hoặc H3. Ví dụ:
+
+<h2 id="tieu-de-1" class="nitoc">Tiêu đề 1</h2>
