@@ -25,7 +25,7 @@ function add_table_of_content($content) {
         <li><strong>Inhaltsverzeichnis</strong></li>
         <!-- Table of contents by webdeasy.de (LH) -->
         <?php for($i = 0; $i < count($names); $i++) { ?>
-            <?php if(strpos($tags[$i], "h2") === false || strpos($tags[$i], "class=\"nitoc\"") !== false) continue; ?>
+            <?php if(strpos($tags[$i], "h2") === false || strpos($tags[$i], "class=\"bomucluc\"") !== false) continue; ?>
             
                 <li>
                     <?php if(!empty($ids[$i])) { ?>
@@ -39,7 +39,7 @@ function add_table_of_content($content) {
                             <?php for($j = 0; $j < count($names) - 1; $j++) { ?>
                                 <?php $sub_index = $i + $j; ?>
                                 <?php if($j != 0 && strpos($tags[$sub_index], "h2") !== false) break; ?>
-                                <?php if(strpos($tags[$sub_index], "h3") === false || strpos($tags[$sub_index], "class=\"nitoc\"") !== false) continue; ?>
+                                <?php if(strpos($tags[$sub_index], "h3") === false || strpos($tags[$sub_index], "class=\"bomucluc\"") !== false) continue; ?>
                                 <li>
                                     <?php if(!empty($ids[$sub_index])) { ?>
                                         <a href="#<?php echo $ids[$sub_index]; ?>"><?php echo $names[$sub_index]; ?></a>
@@ -83,8 +83,8 @@ table-of-contents li {
 Bạn hãy thêm đoạn code này **[[MUC_LUC]]** lên trên đầu bài viết. Để tạo link cho từng tiêu đề của mục lục, hãy trỏ chuột vào Tiêu đề. Sau đó chọn Nâng cao ở sidebar bên phải > Điểm neo HTML > Nhập ký tự làm điểm neo của bạn. Ví dụ: tieu-de-1.
 
 ## Bổ sung
-Để loại bỏ Tiêu đề khỏi mục lục, trên trình soạn thảo Wordpress, bạn hãy thêm class **nitoc** cho tiêu đề. Các bước như sau: Chọn tiêu đề > Chuột phải > Sửa như là HTML > Thêm class="nitoc" trong thẻ H2 hoặc H3. Ví dụ:
+Để loại bỏ Tiêu đề khỏi mục lục, trên trình soạn thảo Wordpress, bạn hãy thêm class **bomucluc** cho tiêu đề. Các bước như sau: Chọn tiêu đề > Chuột phải > Sửa như là HTML > Thêm class="bomucluc" trong thẻ H2 hoặc H3. Ví dụ:
 
 ```HTML
-<h2 id="tieu-de-1" class="nitoc">Tiêu đề 1</h2>
+<h2 id="tieu-de-1" class="bomucluc">Tiêu đề 1</h2>
 ```
