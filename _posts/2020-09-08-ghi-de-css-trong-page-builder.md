@@ -46,7 +46,13 @@ Không biết thằng dở người nào làm cái theme khó xơi vl, bỏ cả
 ```php
 // Fix Piority CSS.
 function fix_bad_theme_styles() { ?>
-    <style data-type="vc_shortcodes-custom-css">.vc_custom_1419240516480{box-shadow: none;background-color:unset!important;margin-bottom:-60px;}</style>
+    <style data-type="vc_shortcodes-custom-css">
+    .vc_custom_1419240516480 {
+    box-shadow: none;
+    background-color: unset!important;
+    margin-bottom: -60px;
+    }
+    </style>
 <?php }
 
 add_action('wp_footer', 'fix_bad_theme_styles');
