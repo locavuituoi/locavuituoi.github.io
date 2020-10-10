@@ -30,11 +30,11 @@ element.style {
 Không có id, không có class, chơi khó nhau vl. Vì vậy tôi dùng bộ chọn thuộc tính CSS (Attribute CSS Selector). Dưới đây là các cấu trúc của bộ chọn này:
 - Bộ chọn thuộc tính cơ bản: **A[B]**. Chọn tất cả các phần tử **A** có thuộc tính **B**.
 - Bộ chọn thuộc tính cụ thể: **A[B="C"]**. Chọn các phần tử **A** có thuộc tính **B** với giá trị là **C**.
-- Bộ chọn thuộc tính cụ thể (Bắt đầu với ...): **A[B^="C"]**. Chọn tất cả các phần tử **A** có thuộc tính **B** với giá trị bắt đầu là **C**. Ký tự **^** là ký tự thể hiện chuỗi bắt đầu (trong Biểu thức chính quy (Regex)).
-- Bộ chọn thuộc tính cụ thể (Kết thúc với ...): **A[B$="C"]**. Chọn tất cả các phần tử **A** có thuộc tính **B** với giá trị kết thúc là **C**. Ký tự **$** là ký tự thể hiện chuỗi kết thúc trong (Biểu thức chính quy (Regex)).
-- Bộ chọn thuộc tính cụ thể (Chứa ký tự ...): **A[B="C"]**. Chọn tất cả phần tử **A** với thuộc tính **B** chứa giá trị **C**.
+- Bộ chọn thuộc tính cụ thể (Bắt đầu với...): **A[B^="C"]**. Chọn tất cả các phần tử **A** có thuộc tính **B** với giá trị bắt đầu là **C**. Ký tự **^** là ký tự thể hiện chuỗi bắt đầu (trong Biểu thức chính quy (Regex)).
+- Bộ chọn thuộc tính cụ thể (Kết thúc với...): **A[B$="C"]**. Chọn tất cả các phần tử **A** có thuộc tính **B** với giá trị kết thúc là **C**. Ký tự **$** là ký tự thể hiện chuỗi kết thúc trong (Biểu thức chính quy (Regex)).
+- Bộ chọn thuộc tính cụ thể (Chứa ký tự...): **A[B="C"]**. Chọn tất cả phần tử **A** với thuộc tính **B** chứa giá trị **C**.
 
-Vì vậy đoạn code trên tôi sửa thành:
+Vì vậy để sửa đoạn code trên tôi sửa thành:
 ```css
 div [style$="top: 279px;"]{top:228px !important;}
 ```
