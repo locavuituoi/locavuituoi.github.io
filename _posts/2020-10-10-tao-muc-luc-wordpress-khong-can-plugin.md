@@ -62,6 +62,8 @@ add_filter('the_content', 'add_table_of_content');
 
 ## 2.Thêm một chút CSS cho đẹp
 
+Bạn có thể thêm đoạn CSS này vào CSS Bổ sung (Advanced CSS) trong Tuỳ biến, hoặc style.css của Child theme...
+
 ```CSS
 ul.table-of-contents {
   padding: 1rem;
